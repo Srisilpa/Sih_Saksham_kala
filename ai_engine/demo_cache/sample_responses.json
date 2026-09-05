@@ -1,0 +1,46 @@
+{
+  "diya": {
+    "catalog": {
+      "title_en": "Handcrafted Terracotta Clay Diya for Diwali",
+      "title_hi": "दिवाली के लिए हस्तनिर्मित मिट्टी का पारंपरिक दीया",
+      "description_en": "Illuminate your home this festive season with this traditional clay diya, thoughtfully handcrafted by skilled Indian artisans. Made from 100% natural, eco-friendly terracotta, it adds an authentic, spiritual glow to your Diwali celebrations and daily puja rituals.",
+      "description_hi": "कुशल कारीगरों द्वारा शुद्ध मिट्टी से तैयार किए गए इस पारंपरिक हस्तनिर्मित दीये के साथ अपने घर को रोशन करें। यह पर्यावरण-अनुकूल टेराकोटा दीया आपकी दिवाली की पूजा और सजावट में दिव्यता और पारंपरिक सुंदरता जोड़ता है।",
+      "category": "pottery",
+      "tags": ["clay diya", "terracotta lamp", "diwali diya", "handmade pottery", "puja decor", "earthen lamp"],
+      "catalog_ai_available": true
+    },
+    "pricing": {
+      "material_cost": 80,
+      "labor_cost": 150,
+      "base_cost": 230,
+      "complexity_multiplier": 1.3,
+      "category_margin": 1.4,
+      "final_price": 418.6,
+      "ai_adjusted_price": 445.0,
+      "ai_explanation": "Handmade terracotta diyas see strong demand during Diwali season, supporting a slightly higher price while remaining affordable for festive buyers.",
+      "ai_available": true
+    }
+  },
+  "saree": {
+    "catalog": {
+      "title_en": "Handwoven Silk Saree with Elegant Zari Border",
+      "title_hi": "शानदार ज़री बॉर्डर वाली हाथ से बुनी सिल्क साड़ी",
+      "description_en": "Celebrate authentic Indian heritage with this exquisite handwoven silk saree, masterfully crafted on a traditional loom. Adorned with a rich and lustrous zari border, this timeless piece drapes effortlessly to exude grace and royalty.",
+      "description_hi": "पारंपरिक हथकरघे पर कुशल कारीगरों द्वारा तैयार की गई इस उत्कृष्ट हाथ से बुनी सिल्क साड़ी के साथ भारतीय शिल्प कौशल का उत्सव मनाएं। इसका चमकदार ज़री बॉर्डर इसे एक अत्यंत भव्य और शालीन रूप देता है।",
+      "category": "sarees",
+      "tags": ["handwoven saree", "silk saree", "zari border saree", "handloom silk", "ethnic wear"],
+      "catalog_ai_available": true
+    },
+    "pricing": {
+      "material_cost": 500,
+      "labor_cost": 300,
+      "base_cost": 800,
+      "complexity_multiplier": 1.6,
+      "category_margin": 1.7,
+      "final_price": 2176.0,
+      "ai_adjusted_price": 2299.0,
+      "ai_explanation": "Pure handwoven silk with zari work has high demand during weddings and festivals. Setting the price at 2,299 rupees gives you a better profit while keeping it attractive to buyers.",
+      "ai_available": true
+    }
+  }
+}
