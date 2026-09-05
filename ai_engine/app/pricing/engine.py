@@ -45,3 +45,60 @@ def calculate_rule_based_price(
         "category_margin": category_margin,
         "final_price": round(final_price, 2),
     }
+import json
+from app.utils.gemini_client import call_gemini
+
+
+def get_ai_adjusted_price(
+    rule_based_result: dict,
+    product_description: str,
+    category: str,
+) -> dict:
+    """
+    Takes the rule-based price and asks Gemini to suggest a small adjustment
+    (max +/-15%) based on the product description and market context.
+
+    If Gemini fails for any reason, falls back to the rule-based price
+    with a note explaining AI adjustment was unavailable.
+    """
+    base_price = rule_based_result["final_price"]
+    min_price = round(base_price * 0.85, 2)
+    max_price = round(base_price * 1.15, 2)
+
+    prompt = f"""
+You are a pricing assistant for handmade artisan products in India.
+
+Product category: {category}
+Product description: {product_description}
+Rule-based calculated price: rupees {base_price}
+Allowed adjustment range: rupees {min_price} to rupees {max_price} (max 15% up or down)
+
+Task: Suggest a final selling price within the allowed range, and explain
+why in 1-2 short sentences a rural artisan can understand.
+
+Respond ONLY in this exact JSON format, nothing else:
+{{"suggested_price": <number>, "explanation": "<short explanation>"}}
+"""
+
+    try:
+        raw_response = call_gemini(prompt)
+        cleaned = raw_response.strip().strip("`").replace("json", "", 1).strip()
+        parsed = json.loads(cleaned)
+
+        suggested_price = float(parsed["suggested_price"])
+        suggested_price = max(min_price, min(max_price, suggested_price))
+
+        return {
+            **rule_based_result,
+            "ai_adjusted_price": round(suggested_price, 2),
+            "ai_explanation": parsed.get("explanation", ""),
+            "ai_available": True,
+        }
+
+    except Exception:
+        return {
+            **rule_based_result,
+            "ai_adjusted_price": rule_based_result["final_price"],
+            "ai_explanation": "AI price suggestion is currently unavailable. Showing standard calculated price.",
+            "ai_available": False,
+        }
