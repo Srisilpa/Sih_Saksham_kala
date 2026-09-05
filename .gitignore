@@ -6,3 +6,9 @@ build/
 .dart_tool/
 *.sqlite3
 "@ | Out-File -FilePath .gitignore -Encoding utf8
+# Member 4 - AI Media
+venv/
+.env
+__pycache__/
+ai_media/uploads/
+ai_media/outputs/
