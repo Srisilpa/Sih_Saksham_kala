@@ -1,0 +1,2001 @@
+product_id,category,material_cost,labor_cost,complexity_level,region,season,final_selling_price
+P00001,sarees,1235.63,665.68,complex,Maharashtra,Regular,5115.54
+P00002,sarees,471.44,264.17,simple,Tamil Nadu,Summer_Festival,1196.57
+P00003,dress,327.28,122.19,complex,Odisha,Wedding,1326.71
+P00004,bamboo_cane,123.96,57.01,simple,Rajasthan,Diwali,246.02
+P00005,jewelry,360.04,231.86,medium,Uttar Pradesh,Summer_Festival,1339.33
+P00006,home_decor,340.72,212.39,simple,Uttar Pradesh,Diwali,855.71
+P00007,metalwork,525.79,286.03,simple,Uttar Pradesh,Regular,1298.88
+P00008,jewelry,448.14,190.32,very_complex,Uttar Pradesh,Wedding,2461.53
+P00009,handmade_food,105.81,50.78,medium,Tamil Nadu,Regular,259.09
+P00010,woodwork,542.27,275.65,medium,Maharashtra,Summer_Festival,1829.16
+P00011,metalwork,605.81,268.19,medium,West Bengal,Regular,1629.63
+P00012,home_decor,84.22,39.53,simple,Tamil Nadu,Diwali,195.05
+P00013,dress,694.8,411.05,simple,Gujarat,Regular,1865.35
+P00014,metalwork,653.23,418.08,very_complex,West Bengal,Diwali,3658.65
+P00015,pottery,69.02,40.85,simple,Maharashtra,Wedding,189.66
+P00016,bags_accessories,391.51,250.4,medium,Gujarat,Diwali,1503.32
+P00017,sarees,927.28,436.76,complex,Maharashtra,Regular,3358.03
+P00018,jewelry,291.46,146.73,simple,Maharashtra,Diwali,871.99
+P00019,sarees,543.67,368.14,medium,Maharashtra,Regular,2054.94
+P00020,jewelry,513.65,284.23,simple,West Bengal,Wedding,1645.74
+P00021,woodwork,684.46,450.67,complex,Gujarat,Summer_Festival,2756.41
+P00022,pottery,30.06,13.26,simple,Gujarat,Wedding,69.94
+P00023,bamboo_cane,75.54,26.28,medium,Rajasthan,Wedding,199.78
+P00024,bags_accessories,209.09,144.0,simple,Rajasthan,Summer_Festival,607.55
+P00025,sarees,641.81,202.01,medium,Rajasthan,Diwali,2191.56
+P00026,textile,203.52,112.7,medium,Maharashtra,Diwali,734.75
+P00027,metalwork,475.98,158.19,medium,Odisha,Summer_Festival,1264.61
+P00028,pottery,148.01,68.02,complex,Tamil Nadu,Summer_Festival,540.26
+P00029,pottery,113.5,73.02,simple,Gujarat,Wedding,302.45
+P00030,woodwork,335.9,187.46,simple,Gujarat,Regular,733.91
+P00031,pottery,130.53,74.44,medium,Maharashtra,Wedding,468.71
+P00032,textile,177.38,100.04,very_complex,Odisha,Wedding,1062.07
+P00033,home_decor,348.99,239.47,medium,Rajasthan,Wedding,1300.18
+P00034,bags_accessories,310.11,198.06,simple,Rajasthan,Regular,816.58
+P00035,bamboo_cane,189.7,116.5,complex,Uttar Pradesh,Regular,658.42
+P00036,jewelry,588.15,243.24,medium,Rajasthan,Regular,1661.97
+P00037,textile,152.78,46.94,medium,Tamil Nadu,Diwali,447.33
+P00038,woodwork,594.57,313.53,medium,Maharashtra,Regular,1626.89
+P00039,jewelry,415.44,287.3,medium,Odisha,Wedding,1749.39
+P00040,dress,551.85,292.9,medium,West Bengal,Diwali,2017.62
+P00041,metalwork,163.37,91.19,simple,Gujarat,Summer_Festival,375.04
+P00042,metalwork,674.19,291.45,complex,Uttar Pradesh,Diwali,2693.29
+P00043,jewelry,287.56,108.23,very_complex,Uttar Pradesh,Regular,1207.88
+P00044,jewelry,571.27,330.43,simple,Rajasthan,Wedding,1755.52
+P00045,dress,451.05,181.17,simple,Maharashtra,Wedding,1164.16
+P00046,handmade_food,93.22,41.37,complex,Rajasthan,Diwali,308.65
+P00047,sarees,1033.82,343.89,medium,West Bengal,Diwali,3154.94
+P00048,woodwork,621.18,384.09,complex,Rajasthan,Summer_Festival,2730.88
+P00049,sarees,826.17,469.93,simple,West Bengal,Wedding,2553.17
+P00050,handmade_food,83.17,25.97,medium,Tamil Nadu,Wedding,200.86
+P00051,bamboo_cane,92.26,58.23,simple,Gujarat,Summer_Festival,196.03
+P00052,metalwork,256.91,119.35,medium,Odisha,Diwali,877.43
+P00053,dress,561.41,240.95,complex,Tamil Nadu,Wedding,2610.37
+P00054,jewelry,161.41,110.58,medium,Maharashtra,Wedding,724.51
+P00055,home_decor,327.11,156.01,medium,Rajasthan,Wedding,1000.22
+P00056,bamboo_cane,142.12,72.01,complex,Tamil Nadu,Diwali,528.29
+P00057,metalwork,286.25,126.63,medium,Maharashtra,Regular,846.64
+P00058,home_decor,105.42,44.76,simple,Uttar Pradesh,Diwali,264.98
+P00059,metalwork,420.39,205.73,medium,West Bengal,Wedding,1369.36
+P00060,metalwork,499.3,158.84,medium,West Bengal,Wedding,1501.43
+P00061,handmade_food,89.28,32.6,very_complex,Rajasthan,Summer_Festival,304.16
+P00062,sarees,1063.68,659.89,very_complex,Uttar Pradesh,Summer_Festival,6371.17
+P00063,jewelry,395.53,267.61,medium,Rajasthan,Diwali,1550.1
+P00064,pottery,62.88,24.26,medium,Gujarat,Summer_Festival,162.44
+P00065,jewelry,445.08,202.14,medium,Maharashtra,Diwali,1604.38
+P00066,textile,307.87,135.26,simple,Maharashtra,Summer_Festival,758.88
+P00067,dress,397.42,147.43,complex,Tamil Nadu,Diwali,1684.44
+P00068,jewelry,262.51,139.71,very_complex,Uttar Pradesh,Wedding,1657.93
+P00069,metalwork,556.95,220.16,simple,Maharashtra,Diwali,1307.73
+P00070,pottery,65.72,22.34,medium,Rajasthan,Wedding,175.15
+P00071,home_decor,338.34,193.09,complex,Rajasthan,Regular,1186.24
+P00072,handmade_food,56.39,24.33,medium,Tamil Nadu,Diwali,162.29
+P00073,woodwork,254.72,126.79,very_complex,Rajasthan,Regular,1043.25
+P00074,handmade_food,61.58,21.36,medium,Maharashtra,Diwali,149.68
+P00075,handmade_food,105.46,49.61,complex,Rajasthan,Diwali,350.35
+P00076,home_decor,101.96,34.05,complex,West Bengal,Wedding,401.18
+P00077,pottery,138.92,74.57,complex,Rajasthan,Regular,463.89
+P00078,jewelry,340.9,225.86,complex,Odisha,Regular,1338.08
+P00079,jewelry,407.16,242.83,simple,West Bengal,Summer_Festival,1150.34
+P00080,home_decor,144.13,66.31,complex,Gujarat,Diwali,539.68
+P00081,home_decor,340.07,103.67,complex,Odisha,Diwali,1250.5
+P00082,metalwork,655.51,262.99,simple,Tamil Nadu,Regular,1431.6
+P00083,home_decor,267.85,129.05,medium,Rajasthan,Diwali,851.9
+P00084,bamboo_cane,186.44,127.43,medium,Maharashtra,Diwali,556.07
+P00085,bamboo_cane,84.38,31.66,medium,Uttar Pradesh,Diwali,223.89
+P00086,handmade_food,62.43,25.22,simple,Uttar Pradesh,Summer_Festival,118.52
+P00087,pottery,102.33,41.79,simple,Tamil Nadu,Summer_Festival,196.31
+P00088,jewelry,476.57,259.91,complex,West Bengal,Regular,1854.56
+P00089,dress,315.38,146.49,complex,Gujarat,Diwali,1435.24
+P00090,textile,278.24,125.86,very_complex,Rajasthan,Regular,1326.24
+P00091,bags_accessories,111.05,39.26,medium,Rajasthan,Wedding,317.51
+P00092,sarees,1499.66,1047.74,complex,Rajasthan,Diwali,8056.61
+P00093,metalwork,357.82,141.85,complex,West Bengal,Wedding,1354.16
+P00094,pottery,57.44,32.66,very_complex,Tamil Nadu,Summer_Festival,271.15
+P00095,dress,533.35,337.37,simple,West Bengal,Wedding,1607.51
+P00096,pottery,135.2,62.38,medium,Tamil Nadu,Wedding,399.93
+P00097,sarees,1144.9,441.0,complex,Tamil Nadu,Wedding,4799.92
+P00098,textile,217.67,103.39,medium,West Bengal,Wedding,812.01
+P00099,woodwork,746.28,312.83,medium,Rajasthan,Summer_Festival,2178.76
+P00100,pottery,141.19,70.15,very_complex,Uttar Pradesh,Wedding,675.77
+P00101,dress,443.19,170.03,simple,Odisha,Diwali,1146.3
+P00102,bags_accessories,138.41,49.93,simple,Rajasthan,Regular,262.1
+P00103,dress,488.16,317.17,simple,Uttar Pradesh,Summer_Festival,1357.08
+P00104,textile,346.54,151.8,medium,Gujarat,Regular,942.15
+P00105,bamboo_cane,113.72,43.5,simple,Rajasthan,Diwali,228.66
+P00106,handmade_food,101.95,56.19,medium,Rajasthan,Wedding,293.88
+P00107,bags_accessories,183.06,113.95,very_complex,Tamil Nadu,Diwali,1075.56
+P00108,woodwork,490.71,268.57,simple,Maharashtra,Summer_Festival,1164.51
+P00109,dress,303.42,107.18,complex,West Bengal,Wedding,1308.58
+P00110,sarees,428.61,205.29,medium,Maharashtra,Summer_Festival,1480.56
+P00111,home_decor,232.27,147.79,complex,Uttar Pradesh,Wedding,937.67
+P00112,home_decor,263.36,162.14,complex,Uttar Pradesh,Diwali,1095.75
+P00113,woodwork,647.26,305.94,medium,West Bengal,Regular,1720.29
+P00114,home_decor,244.04,97.06,simple,Uttar Pradesh,Wedding,572.85
+P00115,bamboo_cane,56.29,20.33,medium,Rajasthan,Diwali,141.35
+P00116,woodwork,683.52,220.27,complex,Odisha,Wedding,2781.12
+P00117,jewelry,598.76,394.37,medium,Tamil Nadu,Summer_Festival,2201.96
+P00118,bags_accessories,177.37,65.34,complex,Odisha,Wedding,722.58
+P00119,home_decor,208.69,132.61,complex,Gujarat,Summer_Festival,755.39
+P00120,handmade_food,75.68,30.04,simple,Gujarat,Summer_Festival,133.19
+P00121,handmade_food,75.55,50.83,complex,Odisha,Diwali,291.46
+P00122,jewelry,210.49,68.48,simple,West Bengal,Summer_Festival,514.6
+P00123,dress,677.05,409.0,complex,Rajasthan,Regular,2833.47
+P00124,dress,274.69,175.88,medium,Gujarat,Wedding,1179.95
+P00125,textile,161.5,72.95,simple,Gujarat,Diwali,438.92
+P00126,bamboo_cane,172.47,103.52,simple,Tamil Nadu,Summer_Festival,399.3
+P00127,jewelry,449.34,228.82,simple,Tamil Nadu,Regular,1054.42
+P00128,handmade_food,63.92,31.01,medium,Maharashtra,Summer_Festival,161.76
+P00129,sarees,726.43,331.68,medium,Rajasthan,Diwali,2706.32
+P00130,metalwork,214.29,144.85,very_complex,Gujarat,Regular,1104.94
+P00131,dress,815.04,406.03,medium,Uttar Pradesh,Regular,2662.48
+P00132,bags_accessories,193.52,77.29,complex,Odisha,Diwali,783.9
+P00133,woodwork,726.06,317.17,medium,West Bengal,Diwali,2489.76
+P00134,woodwork,501.37,258.68,medium,Uttar Pradesh,Summer_Festival,1551.96
+P00135,woodwork,584.69,337.7,complex,West Bengal,Regular,2232.65
+P00136,bags_accessories,387.72,169.44,medium,Uttar Pradesh,Regular,1027.22
+P00137,sarees,484.02,258.7,medium,Odisha,Regular,1643.34
+P00138,home_decor,331.67,174.48,simple,Uttar Pradesh,Regular,736.48
+P00139,dress,739.87,332.77,simple,Maharashtra,Wedding,1881.91
+P00140,jewelry,559.81,195.44,complex,Rajasthan,Wedding,2197.58
+P00141,handmade_food,112.88,73.14,complex,Odisha,Regular,388.38
+P00142,dress,720.97,275.58,medium,Maharashtra,Diwali,2520.95
+P00143,handmade_food,78.37,52.35,simple,Maharashtra,Summer_Festival,172.95
+P00144,textile,276.12,86.46,medium,Gujarat,Diwali,880.21
+P00145,bamboo_cane,107.03,71.28,simple,Maharashtra,Summer_Festival,236.69
+P00146,bags_accessories,299.06,111.02,medium,Uttar Pradesh,Wedding,1048.07
+P00147,pottery,94.21,35.21,medium,Odisha,Summer_Festival,237.41
+P00148,sarees,546.17,205.51,medium,Gujarat,Wedding,1808.68
+P00149,dress,699.84,357.66,medium,Rajasthan,Wedding,2657.71
+P00150,pottery,48.63,18.13,medium,Odisha,Regular,130.29
+P00151,sarees,1376.92,703.1,complex,West Bengal,Wedding,7197.55
+P00152,sarees,1090.71,339.03,simple,West Bengal,Regular,2295.41
+P00153,dress,616.53,268.63,simple,Maharashtra,Diwali,1651.31
+P00154,jewelry,194.75,77.37,medium,Maharashtra,Summer_Festival,620.73
+P00155,dress,667.66,255.04,complex,Uttar Pradesh,Summer_Festival,2377.61
+P00156,textile,162.37,50.43,simple,Maharashtra,Diwali,343.69
+P00157,woodwork,746.37,410.43,medium,West Bengal,Wedding,2618.05
+P00158,textile,349.2,152.98,medium,Maharashtra,Summer_Festival,1084.53
+P00159,home_decor,336.08,203.48,medium,Uttar Pradesh,Regular,911.32
+P00160,handmade_food,72.4,26.99,medium,Gujarat,Wedding,200.95
+P00161,pottery,78.31,30.32,simple,West Bengal,Diwali,179.97
+P00162,woodwork,614.73,352.41,simple,Tamil Nadu,Diwali,1775.95
+P00163,metalwork,186.95,86.39,complex,Rajasthan,Wedding,786.82
+P00164,sarees,616.42,250.64,simple,Odisha,Diwali,1773.82
+P00165,textile,152.61,101.6,medium,Rajasthan,Diwali,560.8
+P00166,handmade_food,116.28,43.46,medium,West Bengal,Summer_Festival,260.23
+P00167,jewelry,279.91,123.8,simple,Tamil Nadu,Regular,674.23
+P00168,sarees,775.98,528.93,medium,Odisha,Wedding,3208.0
+P00169,dress,383.58,206.38,simple,Uttar Pradesh,Regular,859.25
+P00170,bags_accessories,331.27,113.51,medium,West Bengal,Diwali,912.67
+P00171,pottery,101.79,49.25,medium,Tamil Nadu,Regular,251.58
+P00172,textile,181.64,97.38,complex,Uttar Pradesh,Regular,651.03
+P00173,bags_accessories,385.07,184.22,very_complex,Tamil Nadu,Diwali,1840.37
+P00174,dress,731.33,431.22,complex,Maharashtra,Diwali,3516.48
+P00175,dress,354.85,246.64,simple,Rajasthan,Summer_Festival,1100.25
+P00176,handmade_food,80.02,39.15,medium,Rajasthan,Regular,193.86
+P00177,metalwork,213.41,100.03,complex,Gujarat,Summer_Festival,836.53
+P00178,woodwork,697.35,219.53,complex,West Bengal,Regular,2242.88
+P00179,jewelry,548.25,280.76,medium,Tamil Nadu,Wedding,2044.81
+P00180,sarees,947.39,583.87,simple,Maharashtra,Summer_Festival,2634.22
+P00181,textile,363.0,169.52,medium,Tamil Nadu,Wedding,1236.61
+P00182,textile,258.68,174.77,simple,Maharashtra,Diwali,792.38
+P00183,sarees,406.25,127.98,simple,Tamil Nadu,Wedding,1085.42
+P00184,dress,264.19,114.8,simple,Rajasthan,Wedding,730.94
+P00185,pottery,72.55,30.1,simple,Gujarat,Diwali,158.53
+P00186,metalwork,693.25,326.6,simple,Rajasthan,Diwali,1718.54
+P00187,dress,758.59,306.16,simple,Gujarat,Wedding,2080.53
+P00188,sarees,860.88,469.49,complex,Odisha,Summer_Festival,3546.51
+P00189,woodwork,589.79,320.31,simple,Uttar Pradesh,Diwali,1573.91
+P00190,handmade_food,33.31,22.75,simple,Rajasthan,Wedding,93.16
+P00191,metalwork,636.08,426.87,simple,Maharashtra,Regular,1752.24
+P00192,bags_accessories,308.81,111.65,medium,West Bengal,Wedding,1046.02
+P00193,bamboo_cane,45.58,29.99,medium,Tamil Nadu,Regular,136.91
+P00194,bags_accessories,138.85,91.02,complex,Gujarat,Regular,601.96
+P00195,handmade_food,96.17,39.68,complex,Rajasthan,Diwali,308.88
+P00196,bamboo_cane,119.34,39.67,simple,Tamil Nadu,Summer_Festival,204.9
+P00197,metalwork,635.6,321.89,very_complex,West Bengal,Summer_Festival,3261.31
+P00198,jewelry,404.58,164.59,simple,West Bengal,Summer_Festival,1028.62
+P00199,jewelry,220.8,80.41,complex,Uttar Pradesh,Diwali,857.32
+P00200,home_decor,268.73,100.96,very_complex,Uttar Pradesh,Regular,1114.14
+P00201,handmade_food,30.46,19.13,medium,Maharashtra,Regular,79.26
+P00202,sarees,1298.56,653.16,simple,Uttar Pradesh,Wedding,3588.44
+P00203,bags_accessories,177.94,98.51,very_complex,Rajasthan,Summer_Festival,877.78
+P00204,jewelry,158.29,74.85,simple,Gujarat,Wedding,478.08
+P00205,metalwork,528.34,172.84,simple,Uttar Pradesh,Summer_Festival,1060.4
+P00206,pottery,86.83,28.06,complex,Rajasthan,Wedding,282.56
+P00207,textile,233.79,130.7,complex,Maharashtra,Diwali,1024.98
+P00208,sarees,746.2,468.25,simple,Rajasthan,Wedding,2354.85
+P00209,sarees,1496.55,704.09,medium,Odisha,Wedding,5779.36
+P00210,sarees,658.05,418.51,medium,Tamil Nadu,Diwali,2885.37
+P00211,woodwork,770.52,277.71,medium,Gujarat,Regular,2016.39
+P00212,metalwork,680.49,411.04,very_complex,Tamil Nadu,Regular,3236.8
+P00213,bags_accessories,168.99,65.1,medium,Uttar Pradesh,Wedding,496.4
+P00214,home_decor,207.31,107.24,complex,West Bengal,Regular,656.57
+P00215,home_decor,288.15,183.81,complex,Tamil Nadu,Summer_Festival,1168.0
+P00216,jewelry,560.33,384.95,complex,Uttar Pradesh,Diwali,2607.84
+P00217,home_decor,243.97,97.35,simple,Maharashtra,Diwali,555.95
+P00218,home_decor,168.0,90.07,simple,Odisha,Wedding,427.77
+P00219,pottery,77.1,37.93,simple,West Bengal,Wedding,197.12
+P00220,bags_accessories,333.96,105.48,medium,Rajasthan,Summer_Festival,896.25
+P00221,dress,599.63,184.29,simple,Uttar Pradesh,Diwali,1437.32
+P00222,woodwork,243.45,125.06,simple,West Bengal,Summer_Festival,624.81
+P00223,pottery,68.65,47.44,complex,West Bengal,Wedding,293.38
+P00224,handmade_food,45.07,15.41,complex,West Bengal,Wedding,155.08
+P00225,jewelry,427.47,233.05,complex,Rajasthan,Wedding,1947.48
+P00226,dress,748.4,407.81,very_complex,Uttar Pradesh,Wedding,4425.99
+P00227,bags_accessories,345.19,166.01,complex,Uttar Pradesh,Wedding,1514.53
+P00228,home_decor,275.7,148.14,simple,Odisha,Regular,611.21
+P00229,home_decor,343.48,149.33,complex,West Bengal,Regular,1033.71
+P00230,sarees,966.44,567.96,medium,Gujarat,Summer_Festival,3367.2
+P00231,dress,339.68,194.33,very_complex,Gujarat,Summer_Festival,1640.75
+P00232,pottery,145.29,67.76,complex,Rajasthan,Wedding,612.34
+P00233,metalwork,693.21,219.08,simple,Uttar Pradesh,Wedding,1762.66
+P00234,home_decor,211.4,137.28,medium,Tamil Nadu,Wedding,822.55
+P00235,bamboo_cane,85.42,37.9,medium,Gujarat,Regular,203.57
+P00236,textile,139.47,81.78,medium,Maharashtra,Diwali,536.74
+P00237,sarees,915.14,425.73,medium,Odisha,Wedding,3249.56
+P00238,home_decor,200.23,101.3,simple,Uttar Pradesh,Diwali,471.8
+P00239,textile,193.64,89.0,simple,Rajasthan,Regular,454.31
+P00240,metalwork,368.16,145.35,simple,Uttar Pradesh,Summer_Festival,765.86
+P00241,handmade_food,76.78,33.38,simple,Odisha,Summer_Festival,160.26
+P00242,pottery,114.81,42.11,medium,Gujarat,Summer_Festival,279.94
+P00243,home_decor,224.05,137.28,medium,Maharashtra,Diwali,787.33
+P00244,dress,344.09,118.63,medium,Maharashtra,Wedding,1101.76
+P00245,textile,115.51,64.22,simple,Tamil Nadu,Summer_Festival,267.49
+P00246,metalwork,428.98,135.83,very_complex,Tamil Nadu,Diwali,1811.55
+P00247,metalwork,159.56,68.49,medium,Gujarat,Regular,486.77
+P00248,sarees,886.62,502.49,medium,Maharashtra,Regular,2848.68
+P00249,woodwork,604.06,415.57,complex,West Bengal,Summer_Festival,2360.78
+P00250,dress,874.34,351.59,simple,Odisha,Diwali,2328.63
+P00251,sarees,896.61,490.57,very_complex,West Bengal,Wedding,6077.27
+P00252,dress,756.86,505.18,complex,Gujarat,Summer_Festival,3460.62
+P00253,metalwork,341.72,124.29,medium,Rajasthan,Wedding,1113.35
+P00254,home_decor,283.16,95.2,complex,Rajasthan,Summer_Festival,852.29
+P00255,bags_accessories,198.11,112.34,complex,Tamil Nadu,Wedding,949.14
+P00256,textile,360.67,162.4,complex,Maharashtra,Regular,1204.37
+P00257,sarees,739.75,339.15,simple,Maharashtra,Diwali,2191.71
+P00258,home_decor,141.36,46.55,medium,Rajasthan,Regular,349.07
+P00259,handmade_food,78.81,53.64,complex,Rajasthan,Regular,294.62
+P00260,metalwork,231.95,118.45,complex,Rajasthan,Summer_Festival,838.16
+P00261,woodwork,648.13,379.93,medium,Maharashtra,Wedding,2415.88
+P00262,metalwork,506.11,333.63,simple,Maharashtra,Summer_Festival,1254.74
+P00263,bags_accessories,243.75,92.09,medium,Uttar Pradesh,Diwali,702.86
+P00264,woodwork,384.37,238.77,simple,Uttar Pradesh,Wedding,1130.44
+P00265,handmade_food,54.54,25.38,medium,West Bengal,Wedding,149.82
+P00266,bags_accessories,339.93,127.08,simple,Uttar Pradesh,Wedding,806.2
+P00267,pottery,145.55,71.82,medium,West Bengal,Summer_Festival,440.82
+P00268,pottery,43.48,13.09,medium,Tamil Nadu,Wedding,126.96
+P00269,metalwork,266.62,145.15,complex,Rajasthan,Wedding,1164.8
+P00270,handmade_food,53.01,22.31,very_complex,Rajasthan,Wedding,245.9
+P00271,woodwork,257.32,141.41,medium,West Bengal,Diwali,885.53
+P00272,textile,360.78,176.48,simple,Rajasthan,Regular,811.59
+P00273,bamboo_cane,137.14,71.13,simple,Maharashtra,Regular,256.24
+P00274,home_decor,116.84,67.54,medium,West Bengal,Summer_Festival,345.61
+P00275,bamboo_cane,42.53,18.56,medium,Rajasthan,Diwali,126.3
+P00276,woodwork,364.5,120.93,complex,West Bengal,Summer_Festival,1121.91
+P00277,pottery,74.03,32.38,medium,Rajasthan,Summer_Festival,208.11
+P00278,pottery,38.39,21.35,complex,Uttar Pradesh,Diwali,146.85
+P00279,dress,427.03,184.99,medium,Odisha,Summer_Festival,1381.96
+P00280,sarees,1494.58,715.22,medium,Odisha,Diwali,5429.27
+P00281,bamboo_cane,68.05,39.2,medium,Uttar Pradesh,Diwali,195.97
+P00282,handmade_food,98.05,43.05,simple,Rajasthan,Regular,189.48
+P00283,woodwork,271.9,187.52,medium,Odisha,Diwali,931.35
+P00284,woodwork,705.22,358.52,very_complex,Uttar Pradesh,Diwali,3760.61
+P00285,textile,347.82,213.15,complex,Rajasthan,Diwali,1612.92
+P00286,woodwork,416.08,139.41,simple,West Bengal,Diwali,1041.96
+P00287,home_decor,155.52,105.28,medium,Gujarat,Summer_Festival,535.6
+P00288,bamboo_cane,198.75,127.31,very_complex,Gujarat,Regular,798.33
+P00289,pottery,75.67,49.28,simple,West Bengal,Diwali,215.98
+P00290,bamboo_cane,171.0,73.36,simple,Maharashtra,Summer_Festival,301.72
+P00291,bags_accessories,392.68,218.48,medium,West Bengal,Wedding,1522.35
+P00292,home_decor,243.72,86.69,medium,Rajasthan,Summer_Festival,681.71
+P00293,woodwork,287.82,128.66,medium,Rajasthan,Wedding,890.39
+P00294,textile,123.99,75.72,medium,Maharashtra,Summer_Festival,378.0
+P00295,woodwork,584.5,225.86,medium,Uttar Pradesh,Regular,1618.0
+P00296,sarees,1236.91,598.57,simple,Gujarat,Diwali,3271.27
+P00297,bags_accessories,189.21,89.33,complex,Maharashtra,Summer_Festival,655.69
+P00298,metalwork,205.58,118.59,simple,Odisha,Wedding,532.42
+P00299,woodwork,569.13,240.46,medium,Rajasthan,Diwali,1860.49
+P00300,bamboo_cane,181.86,87.28,medium,Maharashtra,Diwali,491.13
+P00301,sarees,512.26,232.99,medium,Odisha,Wedding,2159.74
+P00302,sarees,323.03,130.48,medium,Gujarat,Diwali,1212.6
+P00303,handmade_food,59.12,37.47,simple,Tamil Nadu,Diwali,148.14
+P00304,metalwork,418.32,143.86,complex,Tamil Nadu,Summer_Festival,1430.28
+P00305,metalwork,418.53,150.68,complex,Maharashtra,Diwali,1515.93
+P00306,textile,218.34,105.63,medium,Rajasthan,Diwali,767.92
+P00307,pottery,67.85,39.03,very_complex,Rajasthan,Summer_Festival,310.31
+P00308,pottery,138.21,66.98,complex,West Bengal,Summer_Festival,495.85
+P00309,textile,168.09,110.23,medium,Odisha,Summer_Festival,564.23
+P00310,jewelry,349.47,111.53,simple,Uttar Pradesh,Diwali,769.87
+P00311,sarees,385.51,117.52,complex,Tamil Nadu,Regular,1493.16
+P00312,metalwork,695.37,478.62,medium,Maharashtra,Wedding,2990.16
+P00313,jewelry,194.28,109.6,simple,Gujarat,Wedding,614.3
+P00314,handmade_food,56.59,34.39,simple,Uttar Pradesh,Diwali,139.41
+P00315,textile,176.62,71.4,medium,Gujarat,Diwali,508.27
+P00316,home_decor,341.49,211.55,medium,Odisha,Regular,964.83
+P00317,dress,844.21,429.12,simple,Tamil Nadu,Diwali,2397.52
+P00318,textile,378.43,147.53,simple,Maharashtra,Diwali,884.08
+P00319,bags_accessories,149.11,61.06,medium,West Bengal,Diwali,511.68
+P00320,jewelry,452.15,192.96,complex,Tamil Nadu,Regular,1776.75
+P00321,home_decor,139.69,96.58,medium,Tamil Nadu,Diwali,519.06
+P00322,sarees,954.03,661.97,simple,Gujarat,Summer_Festival,3136.89
+P00323,textile,127.56,87.51,simple,Tamil Nadu,Regular,321.86
+P00324,sarees,950.68,509.7,complex,Tamil Nadu,Wedding,4774.65
+P00325,bamboo_cane,179.73,99.66,medium,Tamil Nadu,Wedding,596.19
+P00326,dress,708.52,493.64,medium,Rajasthan,Summer_Festival,2415.04
+P00327,handmade_food,96.81,60.61,medium,Rajasthan,Wedding,326.59
+P00328,textile,266.27,80.44,medium,Tamil Nadu,Diwali,818.08
+P00329,bamboo_cane,159.93,96.51,complex,Odisha,Wedding,662.91
+P00330,jewelry,375.92,131.53,complex,Odisha,Summer_Festival,1332.76
+P00331,woodwork,282.69,159.78,complex,Odisha,Regular,956.13
+P00332,sarees,726.59,448.8,simple,Odisha,Wedding,2202.61
+P00333,sarees,1168.09,399.08,complex,Tamil Nadu,Wedding,4834.35
+P00334,woodwork,605.88,376.85,medium,Odisha,Summer_Festival,1919.51
+P00335,jewelry,176.35,76.48,medium,Odisha,Regular,555.85
+P00336,bamboo_cane,123.25,55.39,simple,Uttar Pradesh,Summer_Festival,225.43
+P00337,pottery,56.47,30.45,medium,West Bengal,Regular,165.65
+P00338,bags_accessories,152.04,84.39,complex,Odisha,Diwali,652.05
+P00339,bags_accessories,324.17,193.2,medium,Maharashtra,Wedding,1319.68
+P00340,metalwork,333.98,103.69,simple,Tamil Nadu,Wedding,712.84
+P00341,bamboo_cane,87.8,59.38,simple,Rajasthan,Regular,182.12
+P00342,handmade_food,46.75,29.03,complex,Tamil Nadu,Summer_Festival,164.12
+P00343,metalwork,177.41,117.37,complex,West Bengal,Summer_Festival,803.67
+P00344,dress,311.24,169.34,complex,Odisha,Diwali,1311.65
+P00345,woodwork,241.37,77.92,medium,Uttar Pradesh,Diwali,684.82
+P00346,sarees,599.46,245.05,simple,Uttar Pradesh,Wedding,1812.18
+P00347,handmade_food,44.07,28.26,complex,Odisha,Summer_Festival,143.64
+P00348,textile,259.73,120.63,very_complex,Rajasthan,Diwali,1272.18
+P00349,textile,138.4,90.36,complex,Gujarat,Summer_Festival,564.19
+P00350,handmade_food,74.5,51.54,medium,Odisha,Diwali,227.56
+P00351,sarees,670.44,455.1,simple,Rajasthan,Regular,2092.27
+P00352,home_decor,192.86,64.71,simple,Tamil Nadu,Summer_Festival,392.54
+P00353,pottery,133.22,78.48,medium,Tamil Nadu,Diwali,404.78
+P00354,bamboo_cane,76.18,48.66,medium,West Bengal,Wedding,249.56
+P00355,metalwork,203.66,131.32,very_complex,Rajasthan,Wedding,1196.32
+P00356,sarees,434.32,192.14,medium,Maharashtra,Summer_Festival,1592.69
+P00357,jewelry,224.12,96.84,complex,Maharashtra,Diwali,993.43
+P00358,bamboo_cane,180.73,117.15,simple,Tamil Nadu,Regular,367.01
+P00359,home_decor,230.65,120.17,medium,Uttar Pradesh,Wedding,704.0
+P00360,jewelry,374.02,127.99,very_complex,Rajasthan,Wedding,1988.16
+P00361,home_decor,199.09,75.3,medium,Gujarat,Regular,468.1
+P00362,dress,604.32,334.69,simple,Uttar Pradesh,Diwali,1830.72
+P00363,dress,590.47,216.36,medium,Uttar Pradesh,Summer_Festival,1802.11
+P00364,jewelry,378.17,203.93,complex,Gujarat,Summer_Festival,1418.66
+P00365,dress,306.47,145.92,complex,Uttar Pradesh,Summer_Festival,1244.07
+P00366,bamboo_cane,158.36,67.76,complex,Rajasthan,Summer_Festival,542.09
+P00367,sarees,687.61,480.52,simple,Odisha,Diwali,2502.83
+P00368,bags_accessories,267.93,136.9,simple,Gujarat,Diwali,728.97
+P00369,textile,392.04,170.43,simple,Odisha,Diwali,930.77
+P00370,bamboo_cane,90.3,44.11,medium,Gujarat,Summer_Festival,253.85
+P00371,home_decor,303.63,131.8,medium,West Bengal,Wedding,888.93
+P00372,metalwork,545.49,255.32,simple,West Bengal,Wedding,1558.32
+P00373,jewelry,443.02,242.94,medium,West Bengal,Regular,1384.67
+P00374,metalwork,289.69,90.51,complex,Odisha,Regular,956.15
+P00375,textile,152.46,97.92,simple,Uttar Pradesh,Regular,355.08
+P00376,dress,685.91,346.43,simple,Maharashtra,Regular,1587.43
+P00377,metalwork,509.24,343.9,simple,Tamil Nadu,Diwali,1580.92
+P00378,sarees,1378.62,772.45,complex,Uttar Pradesh,Diwali,7232.15
+P00379,bags_accessories,234.12,113.35,medium,Gujarat,Wedding,872.36
+P00380,dress,761.65,374.45,simple,Gujarat,Wedding,1971.03
+P00381,dress,396.03,254.78,complex,West Bengal,Wedding,1916.21
+P00382,jewelry,527.76,365.59,complex,Gujarat,Diwali,2693.85
+P00383,home_decor,156.01,101.27,simple,Maharashtra,Diwali,382.13
+P00384,bamboo_cane,82.13,26.15,simple,Uttar Pradesh,Summer_Festival,149.79
+P00385,woodwork,378.34,158.89,simple,Gujarat,Diwali,971.8
+P00386,woodwork,726.36,313.91,simple,Uttar Pradesh,Summer_Festival,1586.13
+P00387,dress,367.66,227.15,simple,Maharashtra,Summer_Festival,906.28
+P00388,jewelry,408.01,229.93,simple,Odisha,Wedding,1164.17
+P00389,metalwork,201.62,133.85,medium,Rajasthan,Diwali,777.75
+P00390,pottery,92.09,43.48,simple,Rajasthan,Summer_Festival,191.99
+P00391,home_decor,126.06,85.63,simple,Uttar Pradesh,Diwali,337.09
+P00392,home_decor,218.34,74.6,complex,Uttar Pradesh,Regular,641.03
+P00393,jewelry,420.29,251.1,medium,West Bengal,Summer_Festival,1468.15
+P00394,sarees,303.51,95.88,medium,Odisha,Diwali,1036.18
+P00395,bags_accessories,391.46,169.32,simple,Uttar Pradesh,Wedding,1005.78
+P00396,dress,344.89,174.73,medium,Tamil Nadu,Summer_Festival,1022.61
+P00397,pottery,42.96,18.71,simple,Gujarat,Summer_Festival,96.14
+P00398,pottery,35.33,14.53,simple,West Bengal,Regular,74.23
+P00399,pottery,135.58,71.85,medium,Tamil Nadu,Regular,342.01
+P00400,bags_accessories,378.83,138.68,simple,Gujarat,Diwali,873.04
+P00401,jewelry,266.18,151.68,medium,Tamil Nadu,Diwali,958.89
+P00402,handmade_food,30.14,16.71,very_complex,West Bengal,Diwali,127.51
+P00403,sarees,608.03,344.22,simple,Uttar Pradesh,Wedding,2059.28
+P00404,woodwork,451.37,271.03,medium,Gujarat,Regular,1287.82
+P00405,handmade_food,67.14,37.49,simple,Rajasthan,Regular,140.0
+P00406,jewelry,436.24,290.24,medium,West Bengal,Wedding,1854.12
+P00407,jewelry,556.1,181.61,complex,Gujarat,Diwali,2186.57
+P00408,dress,572.74,274.65,complex,Rajasthan,Wedding,2386.8
+P00409,handmade_food,49.44,24.06,very_complex,Odisha,Diwali,233.69
+P00410,bamboo_cane,108.79,61.92,complex,Odisha,Regular,339.13
+P00411,metalwork,274.45,124.52,complex,Odisha,Summer_Festival,995.38
+P00412,home_decor,83.32,37.33,medium,Gujarat,Summer_Festival,208.77
+P00413,pottery,49.88,27.85,medium,West Bengal,Summer_Festival,135.02
+P00414,pottery,33.05,18.45,simple,Uttar Pradesh,Regular,74.07
+P00415,bags_accessories,278.8,94.93,medium,Gujarat,Wedding,935.24
+P00416,dress,891.63,429.41,medium,Uttar Pradesh,Summer_Festival,2993.79
+P00417,textile,389.21,176.58,medium,Gujarat,Regular,1001.57
+P00418,bamboo_cane,103.27,43.92,very_complex,Gujarat,Wedding,426.82
+P00419,metalwork,213.88,145.94,simple,Tamil Nadu,Wedding,623.58
+P00420,sarees,954.46,320.01,medium,West Bengal,Summer_Festival,3020.62
+P00421,woodwork,788.07,387.06,simple,Odisha,Summer_Festival,1862.77
+P00422,bamboo_cane,96.99,61.17,simple,Maharashtra,Regular,214.2
+P00423,handmade_food,54.32,37.29,simple,Odisha,Regular,120.47
+P00424,jewelry,599.87,216.08,simple,Maharashtra,Summer_Festival,1457.64
+P00425,woodwork,728.19,400.04,medium,Rajasthan,Regular,2230.58
+P00426,handmade_food,43.32,27.77,medium,Maharashtra,Diwali,143.99
+P00427,bamboo_cane,135.86,59.97,simple,Gujarat,Diwali,290.33
+P00428,bamboo_cane,59.97,37.04,simple,Gujarat,Regular,120.46
+P00429,handmade_food,71.64,49.6,very_complex,Rajasthan,Regular,314.18
+P00430,bamboo_cane,85.73,32.69,medium,West Bengal,Summer_Festival,221.14
+P00431,bags_accessories,273.18,176.54,medium,Rajasthan,Regular,961.27
+P00432,textile,277.42,172.73,medium,Maharashtra,Regular,873.66
+P00433,home_decor,252.85,106.04,simple,Tamil Nadu,Diwali,547.81
+P00434,bamboo_cane,195.45,75.89,simple,Tamil Nadu,Diwali,424.64
+P00435,textile,316.81,182.8,medium,Tamil Nadu,Wedding,1083.61
+P00436,metalwork,303.32,116.56,medium,West Bengal,Diwali,1027.73
+P00437,jewelry,190.42,57.3,very_complex,West Bengal,Diwali,828.5
+P00438,woodwork,285.71,171.82,complex,Rajasthan,Regular,1157.13
+P00439,home_decor,245.67,82.41,complex,Uttar Pradesh,Regular,733.08
+P00440,woodwork,409.29,140.96,medium,Odisha,Regular,1139.13
+P00441,textile,360.68,206.56,simple,Gujarat,Regular,784.99
+P00442,textile,143.56,83.85,complex,Odisha,Summer_Festival,592.2
+P00443,textile,145.7,59.22,simple,Maharashtra,Wedding,333.6
+P00444,sarees,1068.57,739.01,medium,Rajasthan,Diwali,4689.05
+P00445,metalwork,253.31,148.93,medium,Rajasthan,Wedding,1010.32
+P00446,handmade_food,87.34,44.59,medium,Odisha,Summer_Festival,232.39
+P00447,woodwork,537.97,187.2,simple,Maharashtra,Wedding,1414.11
+P00448,dress,398.99,141.06,simple,Maharashtra,Regular,886.47
+P00449,bags_accessories,130.82,49.14,simple,Rajasthan,Regular,285.22
+P00450,textile,118.81,75.53,simple,Odisha,Diwali,301.97
+P00451,metalwork,206.04,91.5,very_complex,Tamil Nadu,Summer_Festival,894.21
+P00452,bags_accessories,372.16,252.02,complex,Uttar Pradesh,Summer_Festival,1548.52
+P00453,bamboo_cane,54.29,31.21,medium,Uttar Pradesh,Regular,144.32
+P00454,pottery,111.1,39.51,very_complex,Rajasthan,Summer_Festival,421.03
+P00455,bags_accessories,328.31,223.35,medium,Rajasthan,Summer_Festival,1175.28
+P00456,home_decor,253.92,81.07,simple,Gujarat,Regular,455.86
+P00457,sarees,849.24,325.73,medium,Rajasthan,Regular,2528.5
+P00458,home_decor,192.46,121.03,simple,Rajasthan,Diwali,540.08
+P00459,home_decor,317.64,122.7,medium,Gujarat,Wedding,995.9
+P00460,textile,321.58,137.07,medium,Maharashtra,Summer_Festival,966.29
+P00461,metalwork,468.55,156.56,medium,Odisha,Wedding,1329.06
+P00462,home_decor,226.83,77.11,complex,Odisha,Wedding,847.72
+P00463,metalwork,540.16,367.06,very_complex,West Bengal,Wedding,2959.92
+P00464,jewelry,417.81,127.0,medium,Rajasthan,Summer_Festival,1181.32
+P00465,woodwork,657.39,316.84,simple,West Bengal,Wedding,1671.98
+P00466,pottery,45.07,13.83,medium,West Bengal,Summer_Festival,118.64
+P00467,home_decor,84.74,35.36,simple,Odisha,Regular,177.33
+P00468,handmade_food,81.36,42.9,simple,Rajasthan,Wedding,200.17
+P00469,sarees,956.36,604.33,complex,Gujarat,Diwali,4985.48
+P00470,dress,412.04,134.44,medium,Odisha,Regular,1074.9
+P00471,textile,117.91,67.05,medium,Tamil Nadu,Regular,366.6
+P00472,dress,893.93,462.87,very_complex,Tamil Nadu,Summer_Festival,4980.79
+P00473,bamboo_cane,71.33,25.42,medium,Gujarat,Wedding,201.01
+P00474,handmade_food,118.35,60.47,simple,Gujarat,Regular,251.36
+P00475,bags_accessories,375.25,156.18,simple,Rajasthan,Regular,792.36
+P00476,home_decor,331.26,165.27,medium,West Bengal,Diwali,983.17
+P00477,dress,570.76,226.45,simple,West Bengal,Wedding,1530.83
+P00478,metalwork,660.76,399.32,very_complex,Odisha,Wedding,3852.05
+P00479,jewelry,244.13,78.12,simple,Tamil Nadu,Summer_Festival,578.59
+P00480,bags_accessories,172.59,118.09,complex,Gujarat,Regular,655.35
+P00481,jewelry,385.14,149.3,medium,Gujarat,Wedding,1323.01
+P00482,textile,286.7,198.53,medium,Maharashtra,Wedding,1065.07
+P00483,jewelry,464.24,212.66,complex,Tamil Nadu,Wedding,2267.79
+P00484,textile,243.07,142.76,complex,Tamil Nadu,Wedding,1055.04
+P00485,pottery,145.22,87.92,medium,Rajasthan,Regular,454.46
+P00486,home_decor,181.79,94.68,complex,Uttar Pradesh,Diwali,755.59
+P00487,metalwork,616.42,364.64,simple,Uttar Pradesh,Summer_Festival,1420.13
+P00488,metalwork,642.05,192.73,simple,Tamil Nadu,Regular,1352.69
+P00489,bamboo_cane,198.92,63.25,medium,Gujarat,Wedding,559.44
+P00490,pottery,33.91,10.96,medium,Uttar Pradesh,Diwali,92.87
+P00491,handmade_food,52.59,27.64,medium,West Bengal,Diwali,151.52
+P00492,woodwork,726.41,501.04,complex,Rajasthan,Wedding,3201.01
+P00493,bags_accessories,110.81,41.01,simple,Rajasthan,Diwali,281.1
+P00494,home_decor,197.89,105.28,very_complex,Tamil Nadu,Summer_Festival,894.3
+P00495,handmade_food,68.71,45.45,complex,Tamil Nadu,Summer_Festival,266.57
+P00496,metalwork,411.98,205.58,medium,Uttar Pradesh,Regular,1133.11
+P00497,dress,798.52,305.7,simple,Gujarat,Summer_Festival,1695.98
+P00498,woodwork,476.0,160.9,simple,Gujarat,Diwali,1170.45
+P00499,woodwork,290.96,189.23,medium,West Bengal,Summer_Festival,990.88
+P00500,dress,474.28,246.0,simple,Tamil Nadu,Diwali,1333.8
+P00501,home_decor,275.24,104.65,simple,Odisha,Diwali,575.36
+P00502,metalwork,150.81,89.24,simple,Gujarat,Summer_Festival,413.38
+P00503,bamboo_cane,106.55,64.32,complex,Uttar Pradesh,Regular,363.2
+P00504,metalwork,249.89,112.04,complex,Gujarat,Regular,938.46
+P00505,bamboo_cane,126.8,45.63,medium,Odisha,Diwali,327.12
+P00506,sarees,500.79,306.61,medium,West Bengal,Summer_Festival,1904.96
+P00507,bags_accessories,208.51,141.72,medium,Odisha,Diwali,806.15
+P00508,bags_accessories,254.16,127.98,complex,Odisha,Diwali,1027.13
+P00509,home_decor,128.65,43.65,medium,West Bengal,Summer_Festival,349.25
+P00510,sarees,713.52,222.86,simple,Tamil Nadu,Wedding,1739.02
+P00511,home_decor,344.2,221.19,simple,Odisha,Summer_Festival,864.56
+P00512,sarees,879.0,441.85,medium,Rajasthan,Regular,2853.25
+P00513,woodwork,703.4,214.23,medium,Gujarat,Regular,1862.28
+P00514,textile,311.46,195.24,medium,Uttar Pradesh,Summer_Festival,1047.1
+P00515,pottery,67.06,33.05,medium,Tamil Nadu,Diwali,193.54
+P00516,jewelry,539.38,195.75,very_complex,Gujarat,Regular,2262.92
+P00517,sarees,901.82,296.12,simple,Odisha,Regular,1960.28
+P00518,sarees,1053.59,420.39,medium,Maharashtra,Regular,3037.82
+P00519,pottery,66.81,29.48,medium,Odisha,Diwali,206.42
+P00520,pottery,102.66,40.95,medium,Uttar Pradesh,Wedding,304.6
+P00521,textile,199.74,64.44,medium,Gujarat,Wedding,602.59
+P00522,woodwork,640.09,221.78,very_complex,Uttar Pradesh,Wedding,3277.1
+P00523,bamboo_cane,92.04,62.27,medium,Uttar Pradesh,Diwali,324.78
+P00524,dress,325.56,224.07,simple,Tamil Nadu,Wedding,973.67
+P00525,home_decor,194.14,85.15,complex,West Bengal,Summer_Festival,643.44
+P00526,bags_accessories,322.05,177.86,medium,West Bengal,Diwali,1132.17
+P00527,bamboo_cane,52.32,17.28,very_complex,Gujarat,Regular,197.3
+P00528,bags_accessories,237.41,79.97,medium,Uttar Pradesh,Summer_Festival,656.77
+P00529,metalwork,287.99,164.27,simple,Gujarat,Wedding,847.71
+P00530,bamboo_cane,135.63,87.68,simple,Uttar Pradesh,Regular,316.24
+P00531,handmade_food,49.18,33.23,medium,Tamil Nadu,Regular,125.53
+P00532,dress,676.08,313.2,medium,West Bengal,Wedding,2229.92
+P00533,woodwork,763.79,296.5,very_complex,Rajasthan,Summer_Festival,3490.69
+P00534,handmade_food,89.85,44.85,complex,Odisha,Summer_Festival,308.47
+P00535,textile,374.36,177.3,simple,Gujarat,Diwali,905.69
+P00536,bags_accessories,276.84,150.97,complex,West Bengal,Regular,1055.02
+P00537,handmade_food,88.86,55.75,complex,Tamil Nadu,Summer_Festival,287.4
+P00538,woodwork,328.64,134.19,simple,Maharashtra,Diwali,758.07
+P00539,dress,350.74,188.99,medium,West Bengal,Regular,1143.92
+P00540,sarees,1287.58,866.65,complex,Odisha,Regular,5911.37
+P00541,jewelry,482.06,245.17,medium,Rajasthan,Regular,1382.09
+P00542,handmade_food,101.97,44.2,medium,Tamil Nadu,Wedding,318.08
+P00543,pottery,124.49,59.97,complex,Rajasthan,Wedding,508.74
+P00544,bags_accessories,249.83,128.42,medium,Odisha,Wedding,822.15
+P00545,textile,233.18,72.0,complex,Odisha,Summer_Festival,738.45
+P00546,sarees,1412.53,483.31,simple,Odisha,Summer_Festival,3563.05
+P00547,bamboo_cane,65.52,23.86,medium,Rajasthan,Wedding,165.69
+P00548,handmade_food,94.85,59.81,very_complex,West Bengal,Regular,397.79
+P00549,woodwork,349.97,177.09,simple,Uttar Pradesh,Summer_Festival,836.02
+P00550,metalwork,629.95,397.65,complex,West Bengal,Summer_Festival,2442.5
+P00551,sarees,725.31,364.29,very_complex,Uttar Pradesh,Wedding,4837.77
+P00552,pottery,39.32,24.83,simple,Tamil Nadu,Diwali,100.16
+P00553,home_decor,306.24,197.07,complex,West Bengal,Regular,1183.41
+P00554,home_decor,203.98,94.74,simple,Rajasthan,Diwali,502.29
+P00555,woodwork,299.17,89.99,simple,Maharashtra,Diwali,700.67
+P00556,bamboo_cane,126.62,55.47,complex,Odisha,Wedding,446.7
+P00557,handmade_food,87.12,46.42,complex,West Bengal,Wedding,307.88
+P00558,handmade_food,35.2,16.07,medium,Odisha,Regular,82.04
+P00559,dress,491.04,231.56,medium,Tamil Nadu,Diwali,1742.6
+P00560,handmade_food,48.33,20.83,medium,West Bengal,Diwali,135.67
+P00561,pottery,113.6,56.6,medium,Maharashtra,Diwali,387.09
+P00562,sarees,547.5,250.07,simple,West Bengal,Diwali,1682.64
+P00563,sarees,1231.79,670.75,complex,Maharashtra,Diwali,6376.42
+P00564,bags_accessories,288.53,166.04,medium,Maharashtra,Diwali,969.07
+P00565,home_decor,283.21,137.65,complex,Rajasthan,Summer_Festival,1063.94
+P00566,home_decor,293.72,141.14,medium,Gujarat,Wedding,889.61
+P00567,textile,104.01,48.25,medium,Maharashtra,Regular,305.68
+P00568,textile,112.6,55.37,very_complex,West Bengal,Summer_Festival,495.43
+P00569,dress,653.82,215.53,very_complex,Uttar Pradesh,Summer_Festival,2848.26
+P00570,bamboo_cane,46.85,22.42,medium,Tamil Nadu,Regular,107.0
+P00571,dress,524.97,309.26,simple,Odisha,Summer_Festival,1445.44
+P00572,bags_accessories,349.41,222.55,very_complex,Odisha,Regular,1672.38
+P00573,textile,119.94,72.76,complex,Maharashtra,Summer_Festival,493.73
+P00574,metalwork,522.61,315.34,medium,Odisha,Regular,1475.38
+P00575,jewelry,226.45,85.6,medium,Tamil Nadu,Regular,699.74
+P00576,handmade_food,83.74,47.03,very_complex,Maharashtra,Regular,366.46
+P00577,metalwork,318.8,148.56,medium,Odisha,Wedding,1140.16
+P00578,dress,619.84,399.55,medium,Rajasthan,Summer_Festival,2390.49
+P00579,handmade_food,36.93,21.36,medium,Maharashtra,Summer_Festival,101.01
+P00580,handmade_food,68.8,35.76,medium,Odisha,Summer_Festival,186.78
+P00581,jewelry,296.03,120.72,very_complex,Odisha,Diwali,1438.84
+P00582,handmade_food,104.14,33.87,simple,Gujarat,Summer_Festival,198.81
+P00583,woodwork,672.03,409.58,medium,Maharashtra,Wedding,2656.42
+P00584,pottery,61.15,19.17,medium,Rajasthan,Diwali,180.86
+P00585,jewelry,536.15,328.93,complex,Uttar Pradesh,Summer_Festival,2292.31
+P00586,bags_accessories,230.93,130.87,medium,Maharashtra,Diwali,745.51
+P00587,dress,247.08,83.5,simple,Odisha,Diwali,668.96
+P00588,bags_accessories,302.28,91.38,very_complex,Gujarat,Summer_Festival,1231.55
+P00589,pottery,131.9,60.99,very_complex,Gujarat,Regular,487.56
+P00590,metalwork,570.39,313.43,simple,Odisha,Regular,1395.28
+P00591,sarees,976.07,536.69,complex,Gujarat,Wedding,5297.54
+P00592,handmade_food,87.45,51.88,medium,Uttar Pradesh,Diwali,280.33
+P00593,bags_accessories,378.45,254.19,medium,Gujarat,Regular,1194.64
+P00594,metalwork,393.68,195.92,medium,Tamil Nadu,Regular,1232.74
+P00595,handmade_food,34.8,16.77,complex,Rajasthan,Wedding,133.22
+P00596,sarees,500.83,250.49,complex,Maharashtra,Regular,2121.61
+P00597,home_decor,122.18,67.73,medium,West Bengal,Wedding,423.0
+P00598,dress,667.43,423.78,complex,Odisha,Wedding,3130.77
+P00599,woodwork,302.86,145.81,medium,Rajasthan,Regular,867.01
+P00600,woodwork,493.1,227.2,very_complex,Gujarat,Summer_Festival,2111.79
+P00601,metalwork,193.21,115.2,complex,West Bengal,Summer_Festival,714.23
+P00602,bags_accessories,169.24,112.76,simple,Tamil Nadu,Summer_Festival,454.48
+P00603,sarees,553.48,357.1,complex,Odisha,Regular,2668.03
+P00604,bags_accessories,399.17,124.55,complex,Maharashtra,Diwali,1560.34
+P00605,sarees,1231.09,432.33,medium,Maharashtra,Regular,3564.04
+P00606,metalwork,618.9,417.87,very_complex,Rajasthan,Diwali,3280.05
+P00607,bags_accessories,150.44,73.71,complex,Maharashtra,Summer_Festival,514.61
+P00608,dress,303.09,208.9,simple,Uttar Pradesh,Regular,861.67
+P00609,dress,308.9,118.28,simple,Uttar Pradesh,Summer_Festival,736.41
+P00610,dress,448.72,255.59,simple,Maharashtra,Summer_Festival,1079.72
+P00611,metalwork,577.24,190.83,simple,Uttar Pradesh,Regular,1264.26
+P00612,dress,411.69,216.29,simple,West Bengal,Regular,1065.82
+P00613,metalwork,316.99,134.62,medium,West Bengal,Summer_Festival,832.79
+P00614,sarees,667.76,419.99,simple,Maharashtra,Regular,1685.33
+P00615,dress,442.94,229.84,medium,Odisha,Diwali,1767.57
+P00616,pottery,94.56,60.14,complex,Maharashtra,Regular,380.45
+P00617,home_decor,221.15,108.0,very_complex,West Bengal,Regular,950.38
+P00618,bamboo_cane,177.57,82.17,complex,Maharashtra,Diwali,599.95
+P00619,woodwork,317.85,216.32,medium,Odisha,Summer_Festival,1022.73
+P00620,jewelry,541.32,249.61,complex,Uttar Pradesh,Wedding,2658.25
+P00621,dress,292.16,187.53,medium,Gujarat,Wedding,1117.16
+P00622,jewelry,521.57,216.08,simple,Tamil Nadu,Wedding,1537.27
+P00623,dress,749.95,300.82,medium,Odisha,Diwali,2734.07
+P00624,bags_accessories,271.97,118.32,simple,Gujarat,Regular,642.63
+P00625,home_decor,220.93,118.32,simple,Tamil Nadu,Wedding,598.63
+P00626,handmade_food,97.52,35.19,complex,Uttar Pradesh,Summer_Festival,287.42
+P00627,pottery,34.81,14.5,simple,West Bengal,Regular,65.0
+P00628,handmade_food,30.58,18.62,complex,Tamil Nadu,Regular,106.48
+P00629,sarees,1016.29,711.22,medium,West Bengal,Regular,4023.54
+P00630,textile,161.33,70.37,simple,Tamil Nadu,Wedding,417.94
+P00631,woodwork,664.13,232.02,medium,Uttar Pradesh,Wedding,2149.97
+P00632,pottery,149.57,92.49,complex,Rajasthan,Wedding,683.68
+P00633,home_decor,288.81,192.34,simple,Uttar Pradesh,Diwali,726.49
+P00634,bags_accessories,340.43,155.52,simple,Rajasthan,Regular,781.24
+P00635,bags_accessories,266.94,171.53,medium,Rajasthan,Summer_Festival,957.93
+P00636,dress,213.41,134.61,medium,West Bengal,Wedding,872.96
+P00637,home_decor,158.98,68.82,simple,Gujarat,Regular,305.77
+P00638,dress,628.02,358.85,very_complex,Uttar Pradesh,Regular,3042.75
+P00639,textile,251.9,110.88,medium,Tamil Nadu,Regular,765.84
+P00640,woodwork,629.63,366.76,very_complex,Uttar Pradesh,Wedding,3675.02
+P00641,jewelry,185.52,88.52,simple,Gujarat,Wedding,501.01
+P00642,textile,395.45,267.17,very_complex,Rajasthan,Regular,1969.1
+P00643,bamboo_cane,66.05,35.54,simple,Rajasthan,Regular,122.83
+P00644,home_decor,81.36,26.36,very_complex,Gujarat,Wedding,391.24
+P00645,woodwork,742.62,465.6,complex,West Bengal,Regular,3048.8
+P00646,pottery,109.62,50.92,simple,Uttar Pradesh,Diwali,253.42
+P00647,textile,194.16,111.92,complex,Maharashtra,Summer_Festival,736.09
+P00648,home_decor,243.03,156.82,complex,Gujarat,Wedding,1144.12
+P00649,metalwork,308.37,153.3,complex,Rajasthan,Summer_Festival,1116.86
+P00650,woodwork,550.16,250.9,complex,Rajasthan,Diwali,2146.87
+P00651,bags_accessories,297.6,200.17,simple,Maharashtra,Regular,794.59
+P00652,bamboo_cane,103.92,44.76,medium,Gujarat,Summer_Festival,238.02
+P00653,sarees,992.23,481.82,simple,Tamil Nadu,Wedding,2777.75
+P00654,bamboo_cane,135.18,80.51,simple,Rajasthan,Regular,254.18
+P00655,bags_accessories,151.76,80.01,medium,Uttar Pradesh,Regular,433.54
+P00656,bamboo_cane,45.08,27.63,medium,Odisha,Diwali,133.97
+P00657,textile,307.6,148.62,simple,Uttar Pradesh,Diwali,743.94
+P00658,pottery,73.11,46.02,simple,Maharashtra,Wedding,212.98
+P00659,bamboo_cane,48.29,25.25,complex,Odisha,Regular,142.44
+P00660,bamboo_cane,174.55,67.81,medium,Odisha,Diwali,459.82
+P00661,bamboo_cane,84.12,32.11,complex,Tamil Nadu,Diwali,251.15
+P00662,metalwork,442.36,138.49,very_complex,Rajasthan,Regular,1734.05
+P00663,woodwork,571.54,247.39,simple,Gujarat,Summer_Festival,1400.25
+P00664,sarees,1035.36,699.27,medium,Maharashtra,Regular,3957.57
+P00665,pottery,111.76,75.56,medium,Uttar Pradesh,Summer_Festival,325.52
+P00666,dress,378.74,129.66,medium,Rajasthan,Regular,1026.78
+P00667,bamboo_cane,51.22,23.46,medium,Odisha,Diwali,135.9
+P00668,bags_accessories,225.75,82.91,simple,Odisha,Summer_Festival,523.02
+P00669,jewelry,268.05,113.98,simple,Maharashtra,Regular,652.38
+P00670,sarees,1062.5,586.42,very_complex,Gujarat,Regular,5497.8
+P00671,handmade_food,100.29,46.06,simple,West Bengal,Diwali,216.34
+P00672,sarees,1313.6,620.7,complex,Odisha,Summer_Festival,5390.72
+P00673,sarees,599.4,311.08,medium,West Bengal,Wedding,2305.64
+P00674,handmade_food,54.48,16.48,medium,Gujarat,Regular,131.4
+P00675,woodwork,326.53,209.92,simple,Rajasthan,Diwali,984.68
+P00676,jewelry,502.48,204.19,very_complex,Uttar Pradesh,Wedding,2979.73
+P00677,jewelry,356.84,168.57,very_complex,Uttar Pradesh,Regular,1615.57
+P00678,home_decor,140.12,59.25,simple,Gujarat,Diwali,323.97
+P00679,home_decor,192.9,116.3,simple,Tamil Nadu,Summer_Festival,490.7
+P00680,home_decor,297.34,95.43,medium,Odisha,Regular,666.18
+P00681,textile,349.05,237.11,simple,Gujarat,Regular,844.88
+P00682,pottery,34.31,23.01,simple,West Bengal,Summer_Festival,79.44
+P00683,pottery,117.74,79.91,simple,Gujarat,Diwali,336.14
+P00684,bags_accessories,209.23,110.16,simple,West Bengal,Summer_Festival,453.36
+P00685,handmade_food,54.43,36.02,simple,Gujarat,Regular,114.64
+P00686,dress,314.34,122.19,simple,Tamil Nadu,Wedding,807.55
+P00687,woodwork,257.22,123.47,complex,Tamil Nadu,Wedding,1060.74
+P00688,metalwork,514.54,333.55,simple,Odisha,Wedding,1605.66
+P00689,jewelry,398.74,154.11,medium,Maharashtra,Wedding,1299.49
+P00690,metalwork,232.09,94.52,complex,Uttar Pradesh,Diwali,876.4
+P00691,bamboo_cane,172.38,92.04,simple,West Bengal,Diwali,382.46
+P00692,textile,177.95,116.46,simple,Odisha,Wedding,571.88
+P00693,woodwork,588.86,382.79,simple,Gujarat,Regular,1542.16
+P00694,woodwork,438.2,158.86,medium,Uttar Pradesh,Wedding,1463.61
+P00695,metalwork,694.37,216.65,simple,Uttar Pradesh,Diwali,1554.07
+P00696,sarees,722.17,436.67,simple,West Bengal,Wedding,2367.38
+P00697,jewelry,335.04,157.8,very_complex,West Bengal,Regular,1523.56
+P00698,pottery,142.13,81.82,medium,Odisha,Regular,433.94
+P00699,sarees,928.32,372.66,simple,Maharashtra,Wedding,2638.58
+P00700,bags_accessories,163.1,98.86,very_complex,Rajasthan,Regular,747.06
+P00701,dress,401.48,135.42,medium,Gujarat,Wedding,1464.42
+P00702,jewelry,417.41,225.93,simple,West Bengal,Regular,1066.92
+P00703,bamboo_cane,162.97,63.64,medium,Odisha,Summer_Festival,417.59
+P00704,dress,353.1,114.4,simple,Rajasthan,Wedding,831.35
+P00705,bamboo_cane,58.15,40.63,simple,West Bengal,Regular,120.28
+P00706,home_decor,87.52,48.06,very_complex,Rajasthan,Summer_Festival,423.06
+P00707,woodwork,603.71,356.01,medium,West Bengal,Diwali,2148.99
+P00708,textile,115.13,75.54,medium,Odisha,Wedding,453.03
+P00709,sarees,407.85,220.39,medium,West Bengal,Wedding,1613.1
+P00710,handmade_food,119.23,70.43,medium,Odisha,Summer_Festival,355.72
+P00711,woodwork,607.78,412.3,medium,Rajasthan,Diwali,2194.12
+P00712,bags_accessories,197.75,69.43,simple,Tamil Nadu,Summer_Festival,415.96
+P00713,bamboo_cane,173.96,61.05,medium,Rajasthan,Diwali,422.6
+P00714,pottery,107.97,36.86,complex,Maharashtra,Summer_Festival,333.97
+P00715,dress,823.84,251.64,simple,Odisha,Regular,1659.76
+P00716,jewelry,516.87,339.98,simple,Odisha,Regular,1459.69
+P00717,metalwork,451.88,204.25,medium,Odisha,Regular,1306.87
+P00718,bags_accessories,194.48,65.86,simple,Maharashtra,Diwali,420.07
+P00719,bamboo_cane,179.78,125.53,medium,Tamil Nadu,Wedding,629.41
+P00720,pottery,68.2,33.8,simple,Tamil Nadu,Regular,153.07
+P00721,dress,642.68,225.79,simple,Gujarat,Diwali,1623.07
+P00722,woodwork,723.72,361.85,complex,Rajasthan,Regular,2725.34
+P00723,bags_accessories,185.36,88.46,simple,Uttar Pradesh,Diwali,483.4
+P00724,bamboo_cane,194.16,66.64,simple,Uttar Pradesh,Summer_Festival,354.46
+P00725,bags_accessories,295.57,187.09,simple,Rajasthan,Summer_Festival,832.48
+P00726,sarees,1284.08,406.58,simple,West Bengal,Wedding,3447.66
+P00727,bamboo_cane,138.18,91.08,simple,Odisha,Diwali,363.99
+P00728,bags_accessories,122.39,81.16,simple,Maharashtra,Summer_Festival,352.43
+P00729,handmade_food,114.74,58.73,complex,Uttar Pradesh,Regular,377.59
+P00730,home_decor,161.81,111.1,very_complex,Tamil Nadu,Wedding,940.47
+P00731,pottery,74.4,38.7,medium,West Bengal,Regular,217.78
+P00732,textile,213.35,69.3,medium,Maharashtra,Diwali,613.47
+P00733,woodwork,499.58,171.12,simple,Gujarat,Wedding,1114.09
+P00734,woodwork,729.96,340.11,medium,Maharashtra,Wedding,2447.51
+P00735,metalwork,183.8,114.96,medium,Uttar Pradesh,Wedding,760.69
+P00736,bamboo_cane,68.88,27.9,simple,Rajasthan,Diwali,145.42
+P00737,textile,138.05,63.05,medium,Uttar Pradesh,Diwali,420.54
+P00738,pottery,55.79,17.67,medium,Odisha,Wedding,156.06
+P00739,jewelry,393.13,130.41,simple,Gujarat,Summer_Festival,891.13
+P00740,home_decor,118.74,42.82,medium,Uttar Pradesh,Diwali,333.6
+P00741,woodwork,391.47,191.02,medium,Maharashtra,Summer_Festival,1193.24
+P00742,bamboo_cane,172.58,105.86,medium,Uttar Pradesh,Summer_Festival,472.06
+P00743,sarees,1485.3,639.09,medium,Maharashtra,Wedding,5514.6
+P00744,dress,495.86,346.24,complex,Gujarat,Diwali,2236.43
+P00745,handmade_food,115.55,35.68,medium,Tamil Nadu,Summer_Festival,294.26
+P00746,metalwork,461.79,203.47,simple,Tamil Nadu,Diwali,1172.91
+P00747,sarees,1019.35,673.75,medium,Odisha,Wedding,4385.23
+P00748,metalwork,258.29,123.06,very_complex,Uttar Pradesh,Regular,1075.27
+P00749,woodwork,532.81,335.87,medium,Tamil Nadu,Summer_Festival,1825.39
+P00750,home_decor,146.8,94.91,medium,Tamil Nadu,Regular,410.41
+P00751,jewelry,233.18,75.51,medium,Rajasthan,Wedding,786.57
+P00752,handmade_food,78.87,35.45,simple,Gujarat,Wedding,182.81
+P00753,bags_accessories,160.69,73.06,simple,Gujarat,Wedding,382.98
+P00754,bamboo_cane,101.25,64.36,medium,Gujarat,Regular,260.03
+P00755,woodwork,531.97,270.34,simple,Gujarat,Diwali,1520.88
+P00756,home_decor,93.15,31.6,medium,Tamil Nadu,Diwali,237.29
+P00757,home_decor,201.82,87.22,very_complex,Rajasthan,Diwali,947.32
+P00758,dress,318.92,111.87,simple,Rajasthan,Wedding,764.8
+P00759,home_decor,266.5,157.64,simple,Maharashtra,Regular,539.99
+P00760,bags_accessories,101.26,57.53,medium,West Bengal,Regular,318.42
+P00761,bags_accessories,295.89,157.37,complex,Rajasthan,Summer_Festival,1033.07
+P00762,home_decor,241.83,143.03,simple,Gujarat,Wedding,622.69
+P00763,metalwork,588.63,336.12,simple,Odisha,Wedding,1680.17
+P00764,textile,231.12,127.37,simple,Uttar Pradesh,Regular,553.59
+P00765,jewelry,543.44,343.59,very_complex,Tamil Nadu,Wedding,3218.62
+P00766,home_decor,245.31,75.23,medium,Gujarat,Regular,547.77
+P00767,sarees,746.54,379.81,simple,Uttar Pradesh,Regular,1749.35
+P00768,pottery,108.27,52.39,very_complex,Gujarat,Wedding,558.79
+P00769,sarees,1059.36,643.63,medium,Odisha,Summer_Festival,4342.29
+P00770,dress,815.72,540.67,simple,Maharashtra,Wedding,2860.29
+P00771,pottery,117.71,68.31,medium,Gujarat,Summer_Festival,361.81
+P00772,bags_accessories,296.77,112.63,simple,Maharashtra,Diwali,680.09
+P00773,textile,176.36,86.28,simple,Maharashtra,Summer_Festival,375.88
+P00774,bags_accessories,270.22,167.13,simple,Rajasthan,Diwali,789.89
+P00775,pottery,80.29,43.33,simple,Tamil Nadu,Wedding,208.25
+P00776,home_decor,325.16,129.1,simple,Rajasthan,Wedding,700.78
+P00777,bags_accessories,272.16,88.28,medium,Gujarat,Regular,636.92
+P00778,pottery,137.59,52.08,medium,Tamil Nadu,Regular,312.24
+P00779,bags_accessories,343.05,161.87,medium,West Bengal,Diwali,1188.87
+P00780,jewelry,224.08,83.46,simple,West Bengal,Regular,520.67
+P00781,textile,276.4,130.07,simple,Tamil Nadu,Diwali,717.35
+P00782,bags_accessories,255.42,98.49,simple,West Bengal,Wedding,609.43
+P00783,woodwork,432.47,279.11,medium,Maharashtra,Regular,1334.52
+P00784,handmade_food,80.17,46.72,very_complex,Maharashtra,Regular,340.64
+P00785,textile,105.68,62.81,complex,Tamil Nadu,Diwali,437.91
+P00786,home_decor,95.42,33.88,complex,Maharashtra,Wedding,312.87
+P00787,metalwork,425.03,242.25,simple,Tamil Nadu,Summer_Festival,996.12
+P00788,dress,676.34,454.96,simple,Maharashtra,Wedding,2224.39
+P00789,sarees,748.74,490.06,simple,Tamil Nadu,Wedding,2350.94
+P00790,textile,154.74,106.16,simple,Maharashtra,Diwali,443.59
+P00791,handmade_food,43.25,16.55,complex,Gujarat,Wedding,143.69
+P00792,metalwork,298.04,113.09,simple,Gujarat,Summer_Festival,684.23
+P00793,dress,426.61,258.56,complex,Maharashtra,Diwali,1873.18
+P00794,jewelry,302.66,98.36,very_complex,Maharashtra,Wedding,1535.66
+P00795,dress,619.98,306.43,complex,West Bengal,Summer_Festival,2513.06
+P00796,sarees,476.03,274.25,complex,West Bengal,Summer_Festival,2333.52
+P00797,home_decor,142.45,56.61,simple,Odisha,Summer_Festival,281.27
+P00798,jewelry,350.43,116.94,simple,Tamil Nadu,Wedding,930.13
+P00799,sarees,647.33,397.0,complex,Gujarat,Summer_Festival,3163.5
+P00800,pottery,105.0,58.31,medium,Odisha,Summer_Festival,300.05
+P00801,sarees,1318.92,597.94,complex,Gujarat,Summer_Festival,5111.35
+P00802,bags_accessories,220.54,117.14,medium,Rajasthan,Wedding,759.81
+P00803,pottery,129.55,75.63,medium,Tamil Nadu,Summer_Festival,361.15
+P00804,woodwork,417.79,272.28,medium,Tamil Nadu,Diwali,1617.23
+P00805,sarees,691.33,227.01,medium,Odisha,Wedding,2362.28
+P00806,textile,288.89,186.45,medium,Maharashtra,Regular,858.75
+P00807,dress,580.98,401.06,medium,Odisha,Summer_Festival,2088.64
+P00808,home_decor,204.9,64.2,simple,West Bengal,Wedding,417.9
+P00809,home_decor,207.98,99.94,simple,Gujarat,Wedding,555.5
+P00810,woodwork,317.43,199.38,medium,Tamil Nadu,Wedding,1245.31
+P00811,pottery,120.25,60.74,simple,West Bengal,Regular,244.31
+P00812,bamboo_cane,81.54,24.52,simple,Rajasthan,Diwali,154.64
+P00813,metalwork,270.8,81.26,simple,Tamil Nadu,Wedding,686.31
+P00814,bamboo_cane,59.26,19.38,complex,Maharashtra,Diwali,196.54
+P00815,pottery,66.92,26.56,simple,Rajasthan,Summer_Festival,125.68
+P00816,bags_accessories,133.18,41.85,medium,Uttar Pradesh,Wedding,450.06
+P00817,textile,111.69,51.01,simple,West Bengal,Summer_Festival,271.75
+P00818,pottery,91.07,58.7,medium,Maharashtra,Diwali,336.42
+P00819,jewelry,166.96,104.05,simple,West Bengal,Wedding,501.68
+P00820,sarees,946.07,659.27,complex,Odisha,Wedding,5614.51
+P00821,bags_accessories,357.63,153.91,simple,West Bengal,Wedding,1004.39
+P00822,dress,248.05,172.83,complex,Uttar Pradesh,Summer_Festival,1233.46
+P00823,pottery,52.45,27.39,simple,Maharashtra,Regular,107.11
+P00824,jewelry,589.87,367.58,medium,Tamil Nadu,Wedding,2503.27
+P00825,handmade_food,35.42,14.84,simple,Maharashtra,Wedding,75.24
+P00826,sarees,447.0,247.62,simple,Odisha,Summer_Festival,1146.62
+P00827,textile,346.38,179.37,very_complex,Tamil Nadu,Diwali,1660.7
+P00828,jewelry,212.55,101.18,medium,Tamil Nadu,Diwali,747.87
+P00829,handmade_food,114.13,75.75,medium,Rajasthan,Summer_Festival,358.48
+P00830,sarees,904.45,589.13,very_complex,Tamil Nadu,Regular,5537.76
+P00831,sarees,533.13,255.31,medium,West Bengal,Wedding,2228.87
+P00832,bamboo_cane,64.92,33.68,complex,Uttar Pradesh,Diwali,216.39
+P00833,textile,385.25,147.92,simple,Rajasthan,Regular,761.51
+P00834,bags_accessories,153.73,70.24,medium,Maharashtra,Summer_Festival,499.65
+P00835,textile,394.38,178.51,complex,Rajasthan,Summer_Festival,1523.15
+P00836,handmade_food,86.99,41.77,complex,Gujarat,Regular,269.49
+P00837,sarees,1408.89,884.97,complex,Maharashtra,Wedding,7579.8
+P00838,woodwork,289.1,155.71,medium,Maharashtra,Wedding,1106.3
+P00839,pottery,108.93,57.27,medium,Gujarat,Regular,328.68
+P00840,home_decor,272.42,102.77,medium,Odisha,Regular,678.93
+P00841,handmade_food,109.53,47.88,simple,Uttar Pradesh,Wedding,254.59
+P00842,bamboo_cane,176.58,104.2,simple,West Bengal,Diwali,408.05
+P00843,metalwork,230.94,96.81,medium,Tamil Nadu,Summer_Festival,616.01
+P00844,metalwork,217.79,92.14,complex,Rajasthan,Summer_Festival,847.58
+P00845,metalwork,543.08,215.11,medium,Odisha,Summer_Festival,1534.94
+P00846,dress,710.21,298.7,simple,Rajasthan,Wedding,1975.61
+P00847,pottery,70.66,48.11,medium,Rajasthan,Diwali,260.41
+P00848,dress,419.83,209.78,medium,Uttar Pradesh,Diwali,1420.66
+P00849,sarees,808.52,353.2,complex,Uttar Pradesh,Wedding,4141.88
+P00850,textile,375.17,195.62,complex,Gujarat,Wedding,1577.87
+P00851,pottery,125.56,79.5,simple,Gujarat,Regular,314.98
+P00852,woodwork,644.98,401.2,very_complex,Maharashtra,Wedding,4026.15
+P00853,pottery,110.85,53.22,simple,West Bengal,Wedding,289.36
+P00854,bamboo_cane,75.06,25.91,medium,Maharashtra,Diwali,200.02
+P00855,pottery,55.92,38.41,complex,Tamil Nadu,Summer_Festival,231.41
+P00856,bags_accessories,189.9,130.05,medium,Uttar Pradesh,Wedding,754.02
+P00857,dress,557.68,262.95,medium,Uttar Pradesh,Wedding,1865.5
+P00858,handmade_food,89.7,57.02,very_complex,Maharashtra,Diwali,443.14
+P00859,woodwork,495.42,287.52,complex,Odisha,Regular,2012.68
+P00860,jewelry,180.8,119.14,simple,Tamil Nadu,Wedding,532.05
+P00861,woodwork,436.18,213.46,complex,Odisha,Diwali,1920.15
+P00862,bamboo_cane,53.48,23.66,simple,Tamil Nadu,Regular,103.9
+P00863,jewelry,390.91,216.61,simple,Maharashtra,Diwali,1049.98
+P00864,pottery,97.17,62.5,medium,Tamil Nadu,Diwali,345.35
+P00865,jewelry,463.29,174.73,simple,Maharashtra,Wedding,1125.21
+P00866,textile,136.39,57.44,simple,West Bengal,Diwali,336.53
+P00867,sarees,755.68,413.26,medium,Tamil Nadu,Wedding,3391.32
+P00868,metalwork,546.62,204.17,simple,Uttar Pradesh,Diwali,1250.66
+P00869,bags_accessories,246.94,126.3,medium,Maharashtra,Summer_Festival,738.9
+P00870,metalwork,291.61,177.81,complex,Tamil Nadu,Summer_Festival,1155.86
+P00871,bamboo_cane,61.9,20.3,complex,Odisha,Diwali,212.09
+P00872,sarees,1184.56,372.76,medium,Rajasthan,Wedding,4109.17
+P00873,handmade_food,79.75,47.55,very_complex,West Bengal,Wedding,395.99
+P00874,handmade_food,46.16,19.04,medium,Tamil Nadu,Summer_Festival,114.72
+P00875,pottery,84.82,54.14,medium,Uttar Pradesh,Diwali,268.4
+P00876,handmade_food,35.58,18.88,medium,Uttar Pradesh,Wedding,102.03
+P00877,textile,135.39,43.06,medium,Odisha,Regular,343.66
+P00878,metalwork,366.29,200.25,simple,Maharashtra,Diwali,1047.8
+P00879,bamboo_cane,138.76,90.74,medium,Odisha,Summer_Festival,385.37
+P00880,sarees,1464.09,945.84,complex,Gujarat,Wedding,8024.58
+P00881,dress,679.62,282.73,medium,West Bengal,Regular,1882.17
+P00882,bags_accessories,377.39,121.7,simple,Rajasthan,Summer_Festival,783.81
+P00883,home_decor,97.25,41.52,medium,West Bengal,Wedding,286.12
+P00884,dress,269.71,82.64,medium,West Bengal,Regular,800.85
+P00885,metalwork,525.71,353.82,medium,West Bengal,Regular,1741.04
+P00886,sarees,787.7,513.53,medium,Uttar Pradesh,Diwali,3405.42
+P00887,handmade_food,58.46,37.3,complex,Rajasthan,Diwali,227.97
+P00888,sarees,1050.57,380.25,complex,Gujarat,Regular,3792.98
+P00889,woodwork,224.2,96.51,simple,West Bengal,Diwali,549.75
+P00890,pottery,144.25,63.0,very_complex,Tamil Nadu,Regular,636.68
+P00891,dress,224.1,107.19,medium,Tamil Nadu,Wedding,879.27
+P00892,pottery,139.59,63.54,simple,Uttar Pradesh,Diwali,348.6
+P00893,metalwork,394.9,195.57,very_complex,West Bengal,Diwali,2164.67
+P00894,bags_accessories,199.65,115.86,very_complex,Uttar Pradesh,Diwali,1146.27
+P00895,jewelry,482.35,157.01,simple,Rajasthan,Regular,999.9
+P00896,jewelry,563.33,179.59,simple,Odisha,Summer_Festival,1207.87
+P00897,sarees,821.44,532.14,medium,Uttar Pradesh,Diwali,3220.41
+P00898,jewelry,273.29,146.82,medium,Rajasthan,Regular,871.95
+P00899,textile,117.54,49.36,complex,West Bengal,Summer_Festival,418.43
+P00900,sarees,1444.73,933.63,medium,Rajasthan,Summer_Festival,5604.22
+P00901,bamboo_cane,146.36,68.46,simple,Rajasthan,Wedding,348.6
+P00902,home_decor,332.17,117.06,medium,Maharashtra,Wedding,1039.47
+P00903,dress,799.78,389.29,simple,Gujarat,Wedding,2218.96
+P00904,home_decor,203.36,99.66,complex,Maharashtra,Regular,663.3
+P00905,woodwork,718.18,501.81,complex,Rajasthan,Wedding,3462.17
+P00906,sarees,1348.82,523.73,simple,Uttar Pradesh,Regular,2965.88
+P00907,woodwork,507.57,211.33,simple,Uttar Pradesh,Summer_Festival,1125.34
+P00908,jewelry,208.08,87.22,simple,West Bengal,Wedding,598.73
+P00909,sarees,751.02,471.8,simple,Tamil Nadu,Summer_Festival,1967.58
+P00910,handmade_food,70.52,28.34,simple,Maharashtra,Diwali,143.42
+P00911,jewelry,582.64,322.99,medium,Rajasthan,Summer_Festival,2083.07
+P00912,pottery,46.13,22.47,simple,Tamil Nadu,Wedding,117.69
+P00913,bamboo_cane,129.91,44.79,medium,Gujarat,Summer_Festival,316.79
+P00914,bags_accessories,216.76,141.97,medium,West Bengal,Summer_Festival,792.37
+P00915,handmade_food,35.15,23.63,medium,Uttar Pradesh,Regular,90.41
+P00916,bamboo_cane,62.85,33.43,simple,Uttar Pradesh,Diwali,137.68
+P00917,jewelry,174.73,92.85,medium,Rajasthan,Diwali,586.62
+P00918,jewelry,178.76,58.94,complex,Tamil Nadu,Wedding,674.04
+P00919,textile,383.41,166.38,simple,Maharashtra,Summer_Festival,878.19
+P00920,sarees,1425.17,815.03,complex,Tamil Nadu,Wedding,7414.65
+P00921,handmade_food,31.28,12.61,very_complex,Uttar Pradesh,Diwali,129.92
+P00922,woodwork,720.31,491.49,complex,Tamil Nadu,Regular,2755.18
+P00923,sarees,1472.95,944.64,medium,Tamil Nadu,Summer_Festival,5608.15
+P00924,dress,272.63,114.01,simple,Uttar Pradesh,Regular,567.97
+P00925,jewelry,497.47,183.16,medium,Rajasthan,Wedding,1659.61
+P00926,home_decor,218.74,135.33,complex,Uttar Pradesh,Diwali,882.53
+P00927,woodwork,502.7,203.26,simple,Rajasthan,Diwali,1098.22
+P00928,sarees,1460.36,771.77,medium,West Bengal,Summer_Festival,5556.15
+P00929,sarees,840.13,563.17,complex,West Bengal,Summer_Festival,4136.07
+P00930,woodwork,436.69,282.46,simple,Odisha,Regular,1023.49
+P00931,jewelry,306.62,201.82,very_complex,Tamil Nadu,Wedding,2134.62
+P00932,home_decor,126.72,51.54,complex,West Bengal,Regular,368.92
+P00933,bamboo_cane,62.24,37.28,simple,Maharashtra,Summer_Festival,123.56
+P00934,handmade_food,57.85,39.91,simple,West Bengal,Wedding,149.79
+P00935,handmade_food,100.77,46.56,medium,Uttar Pradesh,Wedding,269.07
+P00936,jewelry,454.59,148.03,medium,Maharashtra,Regular,1277.55
+P00937,handmade_food,91.85,57.49,simple,West Bengal,Summer_Festival,200.48
+P00938,jewelry,203.56,66.68,very_complex,Odisha,Wedding,1034.31
+P00939,pottery,40.75,23.89,medium,West Bengal,Summer_Festival,117.87
+P00940,jewelry,247.85,110.71,medium,West Bengal,Diwali,838.96
+P00941,woodwork,466.64,196.6,complex,Gujarat,Regular,1660.73
+P00942,jewelry,499.98,321.65,simple,Uttar Pradesh,Diwali,1616.07
+P00943,bags_accessories,169.72,94.07,medium,Uttar Pradesh,Summer_Festival,593.36
+P00944,woodwork,719.74,343.8,simple,Uttar Pradesh,Regular,1479.51
+P00945,jewelry,477.16,275.4,simple,West Bengal,Summer_Festival,1387.54
+P00946,home_decor,223.5,107.99,simple,Tamil Nadu,Summer_Festival,477.23
+P00947,bamboo_cane,115.91,50.25,medium,Tamil Nadu,Regular,285.26
+P00948,sarees,1157.35,553.04,simple,West Bengal,Wedding,3159.17
+P00949,sarees,449.54,252.19,simple,Odisha,Diwali,1249.16
+P00950,home_decor,202.87,74.13,medium,Maharashtra,Diwali,557.05
+P00951,bamboo_cane,58.23,32.47,simple,Odisha,Summer_Festival,132.08
+P00952,metalwork,593.73,237.92,complex,Rajasthan,Wedding,2550.24
+P00953,bamboo_cane,86.82,44.99,simple,Odisha,Regular,158.79
+P00954,textile,143.65,93.49,simple,Odisha,Wedding,429.26
+P00955,home_decor,197.63,69.49,simple,Tamil Nadu,Regular,392.09
+P00956,bags_accessories,165.96,79.32,simple,Tamil Nadu,Regular,397.31
+P00957,bags_accessories,283.11,179.49,medium,Maharashtra,Summer_Festival,987.02
+P00958,jewelry,437.6,190.96,complex,Tamil Nadu,Wedding,2123.13
+P00959,jewelry,444.4,310.76,complex,Tamil Nadu,Summer_Festival,1857.31
+P00960,pottery,147.07,47.96,complex,Maharashtra,Wedding,557.98
+P00961,textile,261.76,105.24,complex,Maharashtra,Regular,927.99
+P00962,bags_accessories,208.69,131.59,medium,Gujarat,Regular,690.29
+P00963,handmade_food,72.21,48.48,simple,West Bengal,Wedding,193.59
+P00964,woodwork,783.54,347.91,medium,Rajasthan,Regular,2196.56
+P00965,handmade_food,94.38,38.44,medium,Tamil Nadu,Wedding,259.43
+P00966,bags_accessories,360.91,236.88,simple,Tamil Nadu,Regular,887.55
+P00967,sarees,1184.19,592.59,medium,West Bengal,Wedding,4780.59
+P00968,bamboo_cane,78.91,41.05,complex,Gujarat,Summer_Festival,245.88
+P00969,metalwork,163.74,96.33,simple,Odisha,Regular,391.2
+P00970,textile,305.14,183.46,simple,Rajasthan,Regular,766.24
+P00971,woodwork,234.2,125.32,simple,Odisha,Diwali,662.39
+P00972,bamboo_cane,171.12,73.7,simple,Odisha,Regular,308.69
+P00973,bags_accessories,320.57,176.4,simple,West Bengal,Diwali,871.12
+P00974,sarees,1127.3,466.16,medium,West Bengal,Regular,3658.09
+P00975,textile,388.82,214.37,medium,Tamil Nadu,Regular,1101.91
+P00976,bamboo_cane,91.57,55.93,simple,Odisha,Diwali,201.58
+P00977,textile,324.26,207.64,complex,Uttar Pradesh,Wedding,1466.35
+P00978,pottery,33.96,23.15,simple,Gujarat,Diwali,86.61
+P00979,jewelry,255.92,127.38,complex,Gujarat,Summer_Festival,1115.79
+P00980,pottery,147.13,57.22,simple,West Bengal,Regular,269.39
+P00981,bags_accessories,147.03,84.3,medium,Odisha,Regular,459.55
+P00982,handmade_food,66.49,46.12,simple,Gujarat,Diwali,161.36
+P00983,sarees,1299.64,627.88,very_complex,West Bengal,Regular,6237.64
+P00984,pottery,108.79,72.11,complex,Tamil Nadu,Summer_Festival,397.29
+P00985,woodwork,314.14,159.69,medium,Tamil Nadu,Summer_Festival,964.16
+P00986,jewelry,214.74,73.41,simple,Odisha,Summer_Festival,476.63
+P00987,pottery,84.28,50.02,simple,Gujarat,Wedding,240.97
+P00988,woodwork,692.88,305.99,simple,Uttar Pradesh,Summer_Festival,1622.25
+P00989,bamboo_cane,48.75,14.97,simple,Uttar Pradesh,Summer_Festival,80.07
+P00990,handmade_food,42.65,20.04,medium,Uttar Pradesh,Regular,102.59
+P00991,textile,393.99,273.52,medium,Odisha,Wedding,1620.29
+P00992,jewelry,501.31,332.91,complex,Gujarat,Diwali,2398.39
+P00993,sarees,988.12,335.31,simple,Uttar Pradesh,Regular,2227.01
+P00994,bags_accessories,321.23,128.86,simple,Tamil Nadu,Wedding,740.05
+P00995,home_decor,123.89,54.49,simple,Tamil Nadu,Diwali,276.61
+P00996,handmade_food,86.41,30.97,simple,Tamil Nadu,Summer_Festival,170.57
+P00997,bags_accessories,278.81,95.63,medium,Gujarat,Wedding,791.53
+P00998,textile,102.11,63.53,very_complex,Uttar Pradesh,Wedding,545.83
+P00999,sarees,1398.98,701.1,medium,Uttar Pradesh,Summer_Festival,5160.86
+P01000,bamboo_cane,49.88,29.62,very_complex,Tamil Nadu,Diwali,238.74
+P01001,textile,213.49,71.6,simple,Gujarat,Wedding,496.97
+P01002,jewelry,224.94,156.21,medium,Rajasthan,Regular,843.67
+P01003,home_decor,257.65,152.27,simple,Odisha,Diwali,697.79
+P01004,textile,118.95,64.76,simple,Tamil Nadu,Wedding,362.67
+P01005,home_decor,114.51,61.02,complex,Odisha,Regular,377.45
+P01006,jewelry,344.43,213.05,medium,Odisha,Summer_Festival,1240.77
+P01007,handmade_food,52.39,34.79,complex,Uttar Pradesh,Wedding,202.56
+P01008,woodwork,724.12,285.73,simple,Odisha,Summer_Festival,1498.74
+P01009,dress,334.64,196.42,complex,Maharashtra,Diwali,1614.83
+P01010,bags_accessories,383.65,212.1,complex,Gujarat,Regular,1411.3
+P01011,jewelry,340.21,199.78,medium,West Bengal,Diwali,1276.85
+P01012,jewelry,414.79,159.41,simple,Maharashtra,Regular,870.34
+P01013,metalwork,292.07,188.91,complex,West Bengal,Diwali,1372.45
+P01014,sarees,366.87,243.86,simple,West Bengal,Wedding,1296.24
+P01015,pottery,97.9,65.27,medium,Rajasthan,Diwali,362.06
+P01016,bamboo_cane,155.09,84.91,simple,West Bengal,Regular,285.9
+P01017,handmade_food,115.7,59.38,very_complex,Odisha,Wedding,560.62
+P01018,bamboo_cane,55.86,30.68,complex,Maharashtra,Summer_Festival,187.0
+P01019,metalwork,407.57,261.35,simple,Rajasthan,Regular,1090.39
+P01020,handmade_food,37.58,26.07,medium,Odisha,Regular,111.15
+P01021,pottery,66.77,45.73,complex,West Bengal,Regular,275.41
+P01022,home_decor,261.82,142.9,complex,Tamil Nadu,Diwali,1124.39
+P01023,home_decor,346.76,158.04,simple,Tamil Nadu,Summer_Festival,776.58
+P01024,sarees,1062.32,336.36,complex,Tamil Nadu,Regular,3581.32
+P01025,home_decor,340.71,148.76,simple,West Bengal,Diwali,762.59
+P01026,sarees,789.53,546.44,very_complex,Maharashtra,Regular,4678.67
+P01027,home_decor,250.93,165.52,simple,Tamil Nadu,Regular,597.46
+P01028,metalwork,670.93,310.36,complex,Tamil Nadu,Regular,2483.14
+P01029,woodwork,613.51,267.85,simple,Rajasthan,Regular,1246.84
+P01030,sarees,1461.85,525.01,complex,Odisha,Wedding,7056.94
+P01031,metalwork,445.67,236.35,simple,Rajasthan,Wedding,1263.27
+P01032,metalwork,426.45,171.91,very_complex,Uttar Pradesh,Regular,1867.37
+P01033,bags_accessories,346.8,105.88,very_complex,Maharashtra,Diwali,1574.87
+P01034,woodwork,610.66,306.12,medium,Odisha,Summer_Festival,1976.65
+P01035,bamboo_cane,125.84,81.04,simple,Gujarat,Diwali,291.53
+P01036,home_decor,285.88,152.65,simple,Gujarat,Summer_Festival,614.5
+P01037,home_decor,344.32,172.42,complex,Gujarat,Summer_Festival,1204.42
+P01038,bamboo_cane,127.4,42.78,complex,West Bengal,Summer_Festival,365.58
+P01039,handmade_food,38.16,15.46,complex,Odisha,Summer_Festival,125.88
+P01040,home_decor,246.37,168.6,simple,Maharashtra,Summer_Festival,659.16
+P01041,woodwork,392.03,237.28,simple,Tamil Nadu,Wedding,1201.23
+P01042,textile,138.13,65.06,complex,West Bengal,Diwali,522.77
+P01043,textile,274.4,90.98,medium,Tamil Nadu,Wedding,802.27
+P01044,sarees,942.83,431.51,medium,Rajasthan,Wedding,3898.57
+P01045,sarees,706.33,227.56,simple,West Bengal,Regular,1604.82
+P01046,home_decor,234.65,92.77,simple,Tamil Nadu,Wedding,582.4
+P01047,metalwork,688.08,419.22,medium,Rajasthan,Summer_Festival,2088.66
+P01048,handmade_food,48.94,28.18,simple,Odisha,Regular,107.82
+P01049,dress,670.65,289.39,simple,Gujarat,Diwali,1688.08
+P01050,home_decor,277.37,91.71,medium,Gujarat,Summer_Festival,728.45
+P01051,bamboo_cane,94.2,49.5,medium,Odisha,Regular,228.52
+P01052,textile,345.49,198.08,medium,Tamil Nadu,Wedding,1191.46
+P01053,handmade_food,55.36,22.53,medium,Gujarat,Regular,132.14
+P01054,woodwork,785.89,354.05,simple,Tamil Nadu,Regular,1854.67
+P01055,textile,248.06,119.42,simple,Tamil Nadu,Wedding,600.35
+P01056,bamboo_cane,58.18,17.55,medium,Gujarat,Wedding,168.92
+P01057,pottery,66.01,23.8,complex,Uttar Pradesh,Wedding,231.01
+P01058,metalwork,257.25,109.43,simple,Tamil Nadu,Wedding,675.94
+P01059,woodwork,582.44,361.54,medium,West Bengal,Wedding,2194.06
+P01060,dress,748.21,274.78,very_complex,Tamil Nadu,Regular,3281.6
+P01061,bamboo_cane,67.98,38.68,medium,Rajasthan,Regular,168.48
+P01062,sarees,338.96,202.47,simple,Uttar Pradesh,Regular,961.54
+P01063,jewelry,565.43,173.21,medium,Tamil Nadu,Summer_Festival,1687.37
+P01064,metalwork,374.07,259.84,simple,Odisha,Summer_Festival,909.73
+P01065,handmade_food,34.91,22.15,simple,Gujarat,Diwali,85.51
+P01066,bamboo_cane,131.47,56.88,simple,Uttar Pradesh,Summer_Festival,268.57
+P01067,pottery,76.74,30.42,medium,Odisha,Summer_Festival,184.95
+P01068,bamboo_cane,63.3,36.65,simple,Odisha,Regular,133.65
+P01069,textile,291.6,103.95,very_complex,Maharashtra,Regular,1286.48
+P01070,home_decor,188.68,126.04,very_complex,Uttar Pradesh,Regular,907.7
+P01071,jewelry,367.66,156.7,complex,West Bengal,Summer_Festival,1490.93
+P01072,dress,480.68,211.64,medium,Tamil Nadu,Diwali,1746.4
+P01073,pottery,74.8,26.97,simple,Maharashtra,Regular,150.98
+P01074,dress,274.06,151.08,simple,Odisha,Regular,628.71
+P01075,woodwork,501.91,249.61,simple,Uttar Pradesh,Summer_Festival,1066.22
+P01076,handmade_food,61.87,28.94,very_complex,Gujarat,Summer_Festival,242.49
+P01077,sarees,952.95,568.15,very_complex,Odisha,Wedding,6524.99
+P01078,textile,103.17,34.72,simple,Tamil Nadu,Wedding,251.02
+P01079,sarees,438.73,199.82,simple,Gujarat,Summer_Festival,1034.32
+P01080,metalwork,635.55,310.91,medium,Odisha,Diwali,2130.79
+P01081,metalwork,425.48,294.67,very_complex,Gujarat,Summer_Festival,2085.8
+P01082,dress,669.61,378.84,complex,Gujarat,Wedding,3190.4
+P01083,handmade_food,53.01,23.63,medium,Maharashtra,Summer_Festival,145.35
+P01084,dress,699.53,267.92,complex,Gujarat,Diwali,2887.37
+P01085,metalwork,398.72,142.39,simple,Rajasthan,Wedding,952.46
+P01086,sarees,1138.01,475.14,complex,Odisha,Summer_Festival,4765.69
+P01087,dress,692.24,213.68,medium,Odisha,Regular,1933.75
+P01088,bamboo_cane,42.16,18.77,medium,Tamil Nadu,Regular,105.05
+P01089,pottery,117.41,50.08,complex,Odisha,Summer_Festival,381.5
+P01090,pottery,107.73,33.58,complex,Tamil Nadu,Wedding,388.81
+P01091,home_decor,195.1,93.05,medium,Uttar Pradesh,Diwali,623.44
+P01092,home_decor,94.23,29.68,medium,Uttar Pradesh,Wedding,282.37
+P01093,bamboo_cane,55.1,19.3,simple,Tamil Nadu,Wedding,114.08
+P01094,bamboo_cane,79.59,44.42,medium,Odisha,Summer_Festival,226.7
+P01095,bags_accessories,360.46,167.85,complex,Uttar Pradesh,Summer_Festival,1384.03
+P01096,handmade_food,76.64,24.14,complex,Gujarat,Regular,212.52
+P01097,handmade_food,115.95,77.44,medium,West Bengal,Summer_Festival,330.21
+P01098,sarees,949.92,524.14,simple,Uttar Pradesh,Diwali,2741.68
+P01099,bags_accessories,349.06,197.43,medium,Maharashtra,Diwali,1185.89
+P01100,dress,568.04,333.58,medium,Odisha,Regular,1905.92
+P01101,metalwork,480.29,245.92,very_complex,Gujarat,Wedding,2367.48
+P01102,jewelry,378.76,263.89,complex,Maharashtra,Wedding,1881.87
+P01103,sarees,796.4,477.89,medium,Odisha,Summer_Festival,3071.37
+P01104,handmade_food,106.41,50.81,medium,Odisha,Wedding,345.55
+P01105,pottery,99.97,68.39,medium,Odisha,Diwali,363.68
+P01106,dress,558.46,377.67,simple,Odisha,Wedding,1634.81
+P01107,sarees,809.75,367.81,medium,Rajasthan,Regular,2818.62
+P01108,textile,366.23,129.98,complex,Odisha,Wedding,1382.31
+P01109,dress,863.3,523.8,medium,Odisha,Diwali,3164.18
+P01110,handmade_food,52.69,26.15,simple,Maharashtra,Regular,93.79
+P01111,bamboo_cane,58.36,20.45,medium,Tamil Nadu,Regular,133.98
+P01112,bamboo_cane,45.2,24.32,simple,Gujarat,Summer_Festival,95.64
+P01113,bags_accessories,186.45,100.98,medium,Rajasthan,Regular,510.0
+P01114,handmade_food,111.6,42.02,medium,Odisha,Regular,265.61
+P01115,jewelry,591.85,341.17,simple,Uttar Pradesh,Wedding,1928.69
+P01116,bags_accessories,116.61,60.08,simple,Uttar Pradesh,Summer_Festival,254.38
+P01117,bags_accessories,165.9,79.57,very_complex,Maharashtra,Regular,780.07
+P01118,home_decor,219.63,76.17,complex,West Bengal,Summer_Festival,699.64
+P01119,metalwork,347.88,160.83,complex,Gujarat,Wedding,1602.93
+P01120,dress,785.71,287.15,simple,Uttar Pradesh,Summer_Festival,1722.0
+P01121,handmade_food,64.98,31.03,complex,Maharashtra,Diwali,247.63
+P01122,sarees,1236.57,470.48,simple,Maharashtra,Wedding,3189.91
+P01123,handmade_food,89.26,37.02,complex,Rajasthan,Summer_Festival,279.08
+P01124,sarees,547.97,355.99,simple,Tamil Nadu,Regular,1392.42
+P01125,bags_accessories,324.17,124.41,medium,Odisha,Diwali,1013.4
+P01126,textile,337.76,126.58,simple,Gujarat,Diwali,731.57
+P01127,pottery,39.6,17.57,complex,Uttar Pradesh,Regular,137.24
+P01128,home_decor,139.52,93.49,very_complex,Odisha,Diwali,805.51
+P01129,bags_accessories,282.09,105.9,complex,Maharashtra,Wedding,1185.57
+P01130,metalwork,688.59,398.38,simple,Odisha,Regular,1686.53
+P01131,bamboo_cane,93.46,47.55,simple,Uttar Pradesh,Regular,186.45
+P01132,woodwork,371.13,193.58,simple,Rajasthan,Wedding,915.16
+P01133,woodwork,394.11,147.21,very_complex,Tamil Nadu,Diwali,1896.29
+P01134,metalwork,214.18,120.45,simple,Odisha,Summer_Festival,510.3
+P01135,handmade_food,37.07,24.19,medium,Uttar Pradesh,Diwali,109.01
+P01136,dress,598.24,390.46,simple,Uttar Pradesh,Summer_Festival,1807.82
+P01137,bamboo_cane,105.65,51.59,simple,West Bengal,Wedding,223.18
+P01138,handmade_food,45.95,26.56,simple,Rajasthan,Summer_Festival,101.28
+P01139,pottery,33.49,20.35,complex,Maharashtra,Wedding,156.35
+P01140,dress,456.22,284.15,medium,Rajasthan,Regular,1547.14
+P01141,handmade_food,110.96,67.99,simple,Uttar Pradesh,Wedding,262.15
+P01142,bags_accessories,110.9,37.79,complex,Tamil Nadu,Diwali,429.14
+P01143,dress,340.61,143.83,medium,Maharashtra,Wedding,1215.09
+P01144,bamboo_cane,170.94,63.02,medium,West Bengal,Diwali,482.7
+P01145,bags_accessories,231.43,145.13,simple,West Bengal,Regular,570.41
+P01146,textile,282.91,113.83,very_complex,Rajasthan,Summer_Festival,1226.51
+P01147,textile,248.38,163.41,complex,Gujarat,Regular,942.37
+P01148,woodwork,735.34,347.36,complex,Odisha,Regular,2441.53
+P01149,textile,275.67,140.17,simple,West Bengal,Summer_Festival,609.07
+P01150,handmade_food,62.31,38.84,complex,Rajasthan,Wedding,246.82
+P01151,sarees,1419.17,649.73,simple,Uttar Pradesh,Regular,3723.02
+P01152,pottery,35.0,22.13,medium,Uttar Pradesh,Diwali,121.28
+P01153,dress,230.4,93.18,medium,Odisha,Wedding,868.35
+P01154,bags_accessories,308.24,94.46,complex,Gujarat,Diwali,1083.14
+P01155,bags_accessories,340.91,158.9,simple,West Bengal,Regular,717.26
+P01156,handmade_food,62.0,38.66,complex,Gujarat,Diwali,230.89
+P01157,dress,411.94,199.27,complex,Uttar Pradesh,Regular,1664.2
+P01158,home_decor,141.38,61.6,simple,Gujarat,Summer_Festival,298.27
+P01159,bamboo_cane,42.01,15.19,simple,West Bengal,Regular,77.41
+P01160,sarees,390.63,246.5,medium,Rajasthan,Regular,1387.69
+P01161,pottery,32.07,16.67,medium,Odisha,Wedding,114.06
+P01162,woodwork,449.98,162.89,simple,Gujarat,Diwali,1091.97
+P01163,home_decor,199.32,71.18,simple,Tamil Nadu,Regular,398.71
+P01164,home_decor,208.82,145.72,medium,Rajasthan,Regular,668.39
+P01165,jewelry,401.05,169.13,medium,Rajasthan,Wedding,1305.46
+P01166,sarees,513.07,341.74,very_complex,Gujarat,Diwali,3319.05
+P01167,pottery,37.74,26.0,medium,Uttar Pradesh,Wedding,140.43
+P01168,handmade_food,109.32,47.15,very_complex,Uttar Pradesh,Diwali,431.62
+P01169,woodwork,457.9,189.98,medium,Odisha,Summer_Festival,1389.36
+P01170,textile,227.84,118.69,medium,Maharashtra,Wedding,826.92
+P01171,woodwork,683.06,437.32,complex,Rajasthan,Wedding,3259.31
+P01172,handmade_food,58.52,28.5,simple,Rajasthan,Diwali,124.52
+P01173,sarees,932.18,300.94,simple,Gujarat,Diwali,2222.97
+P01174,handmade_food,100.96,63.33,medium,Tamil Nadu,Regular,303.08
+P01175,dress,741.8,237.99,simple,Gujarat,Wedding,1697.9
+P01176,woodwork,232.83,119.72,complex,West Bengal,Diwali,1057.84
+P01177,jewelry,384.15,265.1,complex,Maharashtra,Summer_Festival,1907.76
+P01178,bamboo_cane,122.82,42.96,simple,Odisha,Wedding,282.52
+P01179,dress,558.07,372.46,very_complex,Tamil Nadu,Regular,3218.36
+P01180,textile,301.13,125.13,medium,Odisha,Regular,845.44
+P01181,textile,125.62,83.38,simple,West Bengal,Wedding,353.15
+P01182,handmade_food,66.11,42.44,simple,Tamil Nadu,Diwali,160.07
+P01183,sarees,323.28,139.27,very_complex,Tamil Nadu,Regular,1612.92
+P01184,home_decor,141.06,91.57,very_complex,Maharashtra,Wedding,830.81
+P01185,handmade_food,65.36,24.3,medium,Maharashtra,Regular,153.89
+P01186,jewelry,301.34,130.01,medium,Maharashtra,Diwali,987.4
+P01187,textile,311.25,97.08,simple,Odisha,Summer_Festival,580.07
+P01188,handmade_food,114.89,77.29,simple,Gujarat,Wedding,282.22
+P01189,pottery,85.27,56.3,simple,West Bengal,Regular,215.24
+P01190,textile,134.62,83.55,medium,Maharashtra,Wedding,513.52
+P01191,home_decor,90.2,50.27,simple,Gujarat,Summer_Festival,196.68
+P01192,bamboo_cane,176.24,86.93,simple,Rajasthan,Wedding,403.65
+P01193,metalwork,506.65,228.92,simple,Uttar Pradesh,Regular,1159.64
+P01194,woodwork,687.31,444.28,very_complex,Odisha,Regular,3172.19
+P01195,woodwork,223.73,103.19,medium,Uttar Pradesh,Regular,656.51
+P01196,handmade_food,68.44,24.06,simple,Tamil Nadu,Regular,131.02
+P01197,handmade_food,98.15,41.44,medium,West Bengal,Wedding,288.35
+P01198,woodwork,729.34,261.69,simple,Rajasthan,Diwali,1781.63
+P01199,textile,127.93,62.33,simple,Gujarat,Summer_Festival,322.89
+P01200,bags_accessories,386.79,198.24,medium,Maharashtra,Wedding,1341.51
+P01201,bags_accessories,226.55,130.61,very_complex,West Bengal,Regular,1157.8
+P01202,sarees,992.48,552.86,simple,West Bengal,Wedding,3373.07
+P01203,bags_accessories,206.07,72.74,simple,Odisha,Diwali,497.52
+P01204,bamboo_cane,92.11,45.04,medium,Rajasthan,Wedding,299.13
+P01205,home_decor,310.75,192.94,complex,Odisha,Summer_Festival,1148.85
+P01206,jewelry,410.88,232.89,simple,Odisha,Summer_Festival,1170.56
+P01207,pottery,109.36,49.96,complex,Rajasthan,Regular,347.51
+P01208,jewelry,390.1,117.07,medium,Tamil Nadu,Regular,1000.32
+P01209,woodwork,300.06,162.83,simple,Rajasthan,Wedding,868.05
+P01210,bags_accessories,123.56,54.68,complex,Rajasthan,Diwali,516.31
+P01211,bamboo_cane,177.4,102.92,complex,West Bengal,Regular,571.62
+P01212,bags_accessories,100.87,30.64,complex,Uttar Pradesh,Diwali,385.38
+P01213,woodwork,467.44,296.57,medium,Rajasthan,Diwali,1632.76
+P01214,metalwork,474.95,238.57,complex,Rajasthan,Summer_Festival,1624.73
+P01215,textile,318.86,98.25,very_complex,Rajasthan,Regular,1177.55
+P01216,home_decor,161.72,78.77,medium,Tamil Nadu,Diwali,480.47
+P01217,textile,266.77,123.14,complex,West Bengal,Wedding,1113.98
+P01218,handmade_food,41.79,22.58,simple,Odisha,Diwali,87.27
+P01219,textile,256.52,78.33,simple,West Bengal,Regular,454.0
+P01220,metalwork,465.69,258.44,medium,Rajasthan,Summer_Festival,1499.47
+P01221,pottery,85.21,35.71,simple,Uttar Pradesh,Regular,153.47
+P01222,dress,226.58,158.12,medium,Odisha,Regular,797.29
+P01223,pottery,101.1,64.12,simple,Uttar Pradesh,Wedding,252.24
+P01224,bamboo_cane,91.45,63.95,simple,Odisha,Summer_Festival,233.17
+P01225,bamboo_cane,44.51,17.71,simple,Maharashtra,Regular,87.06
+P01226,sarees,426.12,245.17,complex,Tamil Nadu,Regular,1701.18
+P01227,metalwork,186.21,107.45,very_complex,Uttar Pradesh,Regular,893.65
+P01228,dress,257.7,156.23,medium,Gujarat,Wedding,944.28
+P01229,home_decor,156.32,75.71,simple,Gujarat,Wedding,403.17
+P01230,sarees,1401.31,531.07,complex,Odisha,Wedding,6917.98
+P01231,home_decor,115.8,70.62,simple,Gujarat,Regular,248.71
+P01232,home_decor,199.62,109.22,complex,Odisha,Wedding,874.99
+P01233,pottery,128.46,68.56,simple,Tamil Nadu,Wedding,331.56
+P01234,bamboo_cane,156.78,72.8,simple,Tamil Nadu,Summer_Festival,321.48
+P01235,sarees,1331.7,643.61,medium,Gujarat,Diwali,4781.7
+P01236,dress,442.39,275.65,very_complex,Gujarat,Summer_Festival,2343.32
+P01237,dress,739.31,284.05,medium,Uttar Pradesh,Wedding,2555.04
+P01238,pottery,67.78,33.5,very_complex,Tamil Nadu,Diwali,324.69
+P01239,jewelry,375.87,203.73,medium,Rajasthan,Diwali,1403.01
+P01240,home_decor,298.64,195.5,complex,Rajasthan,Diwali,1212.58
+P01241,metalwork,553.87,307.05,complex,Odisha,Wedding,2665.4
+P01242,bamboo_cane,69.37,27.82,simple,Rajasthan,Regular,123.99
+P01243,woodwork,723.3,237.61,complex,West Bengal,Diwali,2840.02
+P01244,home_decor,272.97,184.28,medium,Gujarat,Diwali,1035.93
+P01245,home_decor,226.0,155.3,very_complex,Tamil Nadu,Regular,1015.36
+P01246,home_decor,172.66,90.58,medium,Rajasthan,Wedding,525.83
+P01247,sarees,706.26,345.63,simple,Rajasthan,Regular,1828.69
+P01248,sarees,1461.73,894.32,simple,Rajasthan,Regular,3622.74
+P01249,woodwork,228.24,129.51,medium,Gujarat,Diwali,860.46
+P01250,handmade_food,69.62,44.09,simple,Uttar Pradesh,Diwali,184.6
+P01251,bags_accessories,115.15,36.57,simple,Odisha,Diwali,273.25
+P01252,home_decor,260.89,78.31,simple,Odisha,Diwali,579.52
+P01253,bamboo_cane,111.67,53.41,simple,Gujarat,Wedding,277.9
+P01254,handmade_food,32.11,15.16,very_complex,West Bengal,Summer_Festival,138.73
+P01255,metalwork,483.31,255.25,simple,Rajasthan,Diwali,1160.27
+P01256,bags_accessories,347.45,223.29,complex,Tamil Nadu,Regular,1486.94
+P01257,pottery,116.68,38.64,very_complex,Rajasthan,Summer_Festival,420.67
+P01258,home_decor,321.86,180.65,medium,West Bengal,Wedding,1064.35
+P01259,textile,187.88,84.44,medium,Rajasthan,Summer_Festival,576.53
+P01260,woodwork,488.01,224.95,simple,Gujarat,Diwali,1144.12
+P01261,handmade_food,30.49,17.3,medium,Gujarat,Regular,88.4
+P01262,textile,169.77,92.2,medium,Rajasthan,Wedding,601.08
+P01263,jewelry,482.17,181.13,simple,West Bengal,Diwali,1238.41
+P01264,home_decor,101.79,70.96,simple,Gujarat,Diwali,293.9
+P01265,woodwork,520.17,352.48,simple,Maharashtra,Diwali,1474.09
+P01266,bamboo_cane,60.51,21.13,simple,Rajasthan,Diwali,124.97
+P01267,metalwork,331.13,104.93,complex,Gujarat,Regular,1045.77
+P01268,metalwork,691.71,469.19,simple,Uttar Pradesh,Regular,1635.86
+P01269,handmade_food,88.93,40.56,simple,Uttar Pradesh,Diwali,181.76
+P01270,dress,605.39,227.4,medium,Tamil Nadu,Diwali,2151.76
+P01271,textile,281.25,97.98,medium,Gujarat,Wedding,812.63
+P01272,jewelry,457.55,262.43,medium,Tamil Nadu,Regular,1498.11
+P01273,bamboo_cane,149.99,64.52,very_complex,Maharashtra,Wedding,615.03
+P01274,bags_accessories,124.03,46.3,simple,Maharashtra,Summer_Festival,273.06
+P01275,metalwork,642.27,368.93,simple,Gujarat,Diwali,1657.07
+P01276,textile,240.71,120.78,medium,Uttar Pradesh,Regular,716.9
+P01277,bags_accessories,152.71,82.29,medium,West Bengal,Summer_Festival,473.87
+P01278,sarees,665.81,382.95,medium,Rajasthan,Diwali,2859.44
+P01279,jewelry,471.35,178.4,simple,Uttar Pradesh,Summer_Festival,1133.08
+P01280,handmade_food,79.89,40.81,medium,Uttar Pradesh,Regular,213.54
+P01281,handmade_food,49.45,18.46,medium,Maharashtra,Wedding,135.84
+P01282,bags_accessories,163.21,63.82,simple,Gujarat,Regular,325.53
+P01283,handmade_food,97.82,66.74,complex,Rajasthan,Wedding,433.09
+P01284,sarees,1080.99,374.57,medium,Maharashtra,Summer_Festival,3402.22
+P01285,home_decor,214.26,72.33,medium,Odisha,Summer_Festival,524.75
+P01286,jewelry,265.69,130.66,medium,Tamil Nadu,Wedding,963.03
+P01287,home_decor,230.51,149.23,simple,Uttar Pradesh,Summer_Festival,595.55
+P01288,jewelry,518.06,163.37,medium,Rajasthan,Diwali,1750.86
+P01289,home_decor,310.54,110.57,medium,Rajasthan,Diwali,889.17
+P01290,jewelry,476.47,158.39,simple,Uttar Pradesh,Wedding,1271.7
+P01291,pottery,101.91,63.49,complex,Tamil Nadu,Summer_Festival,358.63
+P01292,bamboo_cane,83.47,32.14,medium,Maharashtra,Wedding,239.31
+P01293,pottery,110.25,57.02,complex,Uttar Pradesh,Diwali,459.58
+P01294,pottery,57.03,32.65,simple,Odisha,Wedding,143.24
+P01295,handmade_food,119.59,36.96,medium,Uttar Pradesh,Summer_Festival,256.29
+P01296,sarees,959.12,574.84,medium,Maharashtra,Summer_Festival,3761.69
+P01297,jewelry,581.6,391.09,complex,West Bengal,Regular,2634.2
+P01298,textile,228.25,93.33,medium,Rajasthan,Diwali,704.44
+P01299,home_decor,306.92,178.17,simple,Gujarat,Diwali,826.14
+P01300,woodwork,375.45,244.03,complex,Tamil Nadu,Diwali,1802.7
+P01301,woodwork,228.01,139.5,very_complex,West Bengal,Diwali,1205.17
+P01302,woodwork,445.36,251.53,complex,Gujarat,Wedding,1992.94
+P01303,metalwork,429.34,219.58,medium,Rajasthan,Regular,1344.0
+P01304,dress,444.71,185.47,simple,Tamil Nadu,Summer_Festival,1035.96
+P01305,bags_accessories,319.95,108.02,very_complex,Rajasthan,Wedding,1679.78
+P01306,dress,205.85,75.64,simple,West Bengal,Summer_Festival,480.55
+P01307,bags_accessories,301.53,138.02,very_complex,Uttar Pradesh,Diwali,1365.19
+P01308,home_decor,183.39,71.31,complex,Uttar Pradesh,Diwali,698.71
+P01309,pottery,130.8,77.17,simple,Odisha,Diwali,361.27
+P01310,textile,212.29,83.33,complex,Odisha,Diwali,854.23
+P01311,sarees,996.27,659.15,medium,West Bengal,Wedding,4232.29
+P01312,home_decor,317.84,197.79,complex,Maharashtra,Summer_Festival,1237.63
+P01313,metalwork,368.45,146.68,simple,Rajasthan,Summer_Festival,802.96
+P01314,pottery,52.74,30.09,very_complex,Gujarat,Diwali,244.96
+P01315,jewelry,442.77,290.4,medium,Rajasthan,Wedding,1808.19
+P01316,textile,112.29,57.37,simple,Gujarat,Summer_Festival,287.86
+P01317,metalwork,329.64,181.08,medium,Maharashtra,Regular,907.53
+P01318,bamboo_cane,47.4,20.97,complex,Tamil Nadu,Summer_Festival,140.75
+P01319,bamboo_cane,72.02,30.81,medium,Maharashtra,Wedding,212.37
+P01320,dress,598.5,373.92,simple,Gujarat,Wedding,1982.03
+P01321,woodwork,293.86,188.06,simple,Maharashtra,Diwali,868.92
+P01322,metalwork,519.17,162.28,simple,Odisha,Diwali,1228.75
+P01323,handmade_food,99.28,52.08,complex,Maharashtra,Diwali,389.77
+P01324,bags_accessories,380.28,193.6,very_complex,Uttar Pradesh,Wedding,1979.85
+P01325,pottery,93.59,51.1,simple,Gujarat,Regular,201.85
+P01326,sarees,1044.98,614.03,simple,Gujarat,Diwali,3288.46
+P01327,home_decor,237.25,83.21,simple,Gujarat,Summer_Festival,467.49
+P01328,handmade_food,94.01,31.96,complex,Rajasthan,Summer_Festival,249.45
+P01329,sarees,337.27,175.94,medium,Uttar Pradesh,Regular,1193.63
+P01330,jewelry,297.01,141.04,simple,Rajasthan,Diwali,770.46
+P01331,handmade_food,50.09,33.51,simple,Tamil Nadu,Regular,107.07
+P01332,jewelry,152.41,91.34,medium,Gujarat,Diwali,630.05
+P01333,dress,695.27,337.26,simple,Maharashtra,Regular,1753.32
+P01334,bamboo_cane,94.65,61.51,simple,Rajasthan,Wedding,246.72
+P01335,handmade_food,37.08,20.08,simple,Uttar Pradesh,Summer_Festival,72.78
+P01336,handmade_food,63.96,30.57,complex,Gujarat,Summer_Festival,187.73
+P01337,textile,233.73,146.35,very_complex,Uttar Pradesh,Diwali,1413.38
+P01338,bamboo_cane,81.93,53.47,simple,Tamil Nadu,Wedding,227.78
+P01339,woodwork,761.74,492.6,simple,Tamil Nadu,Regular,2063.11
+P01340,textile,130.88,76.91,simple,Maharashtra,Regular,311.93
+P01341,bamboo_cane,76.77,46.05,simple,Tamil Nadu,Wedding,196.6
+P01342,jewelry,434.61,180.5,medium,West Bengal,Wedding,1577.83
+P01343,dress,796.7,398.44,simple,Maharashtra,Regular,1980.64
+P01344,bags_accessories,228.67,128.26,medium,Uttar Pradesh,Diwali,836.78
+P01345,jewelry,456.41,170.99,simple,Odisha,Regular,957.53
+P01346,dress,422.85,191.34,medium,West Bengal,Diwali,1613.33
+P01347,textile,166.93,53.85,simple,Gujarat,Wedding,365.88
+P01348,pottery,100.4,55.19,medium,Maharashtra,Diwali,335.63
+P01349,bags_accessories,262.3,153.74,medium,West Bengal,Diwali,943.56
+P01350,jewelry,301.18,157.9,complex,Gujarat,Regular,1080.06
+P01351,woodwork,725.94,263.74,medium,Uttar Pradesh,Wedding,2295.31
+P01352,metalwork,628.0,331.16,very_complex,Rajasthan,Wedding,3411.2
+P01353,jewelry,426.54,269.94,simple,Maharashtra,Diwali,1279.99
+P01354,sarees,1074.91,430.0,very_complex,Rajasthan,Wedding,6553.32
+P01355,jewelry,334.74,131.4,medium,West Bengal,Wedding,1078.87
+P01356,bags_accessories,104.35,55.3,medium,Maharashtra,Summer_Festival,320.49
+P01357,handmade_food,56.8,30.67,medium,Uttar Pradesh,Regular,156.0
+P01358,sarees,942.63,487.75,very_complex,Gujarat,Diwali,5764.8
+P01359,woodwork,449.59,269.16,simple,Rajasthan,Summer_Festival,1040.07
+P01360,dress,775.85,297.94,complex,Maharashtra,Diwali,3094.27
+P01361,metalwork,301.38,99.48,medium,Rajasthan,Diwali,936.29
+P01362,jewelry,370.7,149.42,complex,Tamil Nadu,Wedding,1720.82
+P01363,handmade_food,98.31,48.32,simple,Gujarat,Regular,173.26
+P01364,dress,261.3,162.6,simple,Maharashtra,Regular,701.19
+P01365,bags_accessories,100.7,40.07,medium,Rajasthan,Regular,284.42
+P01366,sarees,429.69,203.89,medium,Tamil Nadu,Summer_Festival,1609.0
+P01367,bamboo_cane,81.71,52.4,simple,Gujarat,Diwali,215.07
+P01368,dress,738.48,397.81,simple,Odisha,Summer_Festival,1846.81
+P01369,bamboo_cane,96.22,67.29,medium,Gujarat,Regular,297.82
+P01370,dress,830.88,303.74,medium,West Bengal,Wedding,2764.84
+P01371,handmade_food,115.52,37.58,very_complex,Tamil Nadu,Wedding,487.51
+P01372,dress,839.64,547.42,complex,Odisha,Regular,3905.78
+P01373,bags_accessories,194.48,68.38,simple,Maharashtra,Summer_Festival,411.39
+P01374,metalwork,482.27,325.21,simple,Odisha,Wedding,1376.14
+P01375,jewelry,166.15,110.65,simple,Gujarat,Regular,429.77
+P01376,home_decor,271.48,103.2,complex,West Bengal,Diwali,909.39
+P01377,bags_accessories,334.6,205.3,medium,Uttar Pradesh,Summer_Festival,1095.11
+P01378,bamboo_cane,149.9,99.73,medium,Maharashtra,Diwali,495.69
+P01379,textile,162.86,78.52,simple,West Bengal,Regular,391.65
+P01380,woodwork,407.21,283.59,complex,West Bengal,Wedding,1831.12
+P01381,sarees,410.82,234.0,medium,Uttar Pradesh,Diwali,1493.44
+P01382,woodwork,513.28,236.43,complex,Uttar Pradesh,Regular,1727.51
+P01383,bamboo_cane,183.05,91.37,medium,West Bengal,Summer_Festival,520.25
+P01384,woodwork,647.09,249.41,medium,Rajasthan,Summer_Festival,1655.94
+P01385,dress,627.64,283.24,complex,Gujarat,Summer_Festival,2592.36
+P01386,home_decor,153.27,98.41,complex,Odisha,Regular,546.45
+P01387,sarees,1365.43,465.48,very_complex,West Bengal,Wedding,7834.84
+P01388,metalwork,628.61,223.45,complex,Gujarat,Diwali,2176.4
+P01389,home_decor,256.17,156.14,complex,Maharashtra,Summer_Festival,942.28
+P01390,dress,586.28,324.04,simple,Rajasthan,Wedding,1662.91
+P01391,bags_accessories,244.34,105.88,very_complex,Rajasthan,Wedding,1247.96
+P01392,handmade_food,94.39,30.93,simple,Gujarat,Wedding,188.9
+P01393,home_decor,238.0,106.6,simple,West Bengal,Summer_Festival,505.15
+P01394,sarees,1186.56,779.79,medium,Uttar Pradesh,Diwali,4945.45
+P01395,jewelry,173.42,113.36,very_complex,Maharashtra,Wedding,1181.11
+P01396,woodwork,519.38,343.9,medium,Odisha,Wedding,1851.62
+P01397,pottery,121.56,55.24,simple,West Bengal,Wedding,324.02
+P01398,sarees,536.97,295.69,very_complex,Rajasthan,Wedding,3522.8
+P01399,handmade_food,89.7,41.56,simple,Gujarat,Wedding,195.77
+P01400,sarees,1013.94,626.17,simple,Gujarat,Summer_Festival,3214.11
+P01401,metalwork,305.81,91.77,simple,Rajasthan,Summer_Festival,579.47
+P01402,handmade_food,76.82,40.47,complex,Uttar Pradesh,Regular,246.95
+P01403,metalwork,320.82,175.26,complex,Odisha,Diwali,1421.47
+P01404,bags_accessories,311.06,173.55,simple,West Bengal,Diwali,814.88
+P01405,pottery,66.65,40.82,complex,Odisha,Regular,234.28
+P01406,bags_accessories,130.94,88.67,medium,Tamil Nadu,Summer_Festival,476.19
+P01407,woodwork,275.72,157.48,medium,West Bengal,Summer_Festival,899.76
+P01408,jewelry,366.42,165.08,simple,Maharashtra,Diwali,951.2
+P01409,sarees,1484.04,812.87,complex,Odisha,Regular,6436.11
+P01410,handmade_food,87.43,36.31,medium,Maharashtra,Regular,198.08
+P01411,jewelry,153.05,55.28,simple,Rajasthan,Regular,304.59
+P01412,metalwork,437.95,167.25,simple,Uttar Pradesh,Diwali,1009.48
+P01413,handmade_food,92.57,32.22,simple,Odisha,Diwali,176.51
+P01414,bamboo_cane,150.24,79.15,simple,Tamil Nadu,Diwali,355.53
+P01415,bags_accessories,213.18,120.58,medium,West Bengal,Diwali,711.8
+P01416,pottery,48.92,18.08,simple,West Bengal,Regular,98.69
+P01417,metalwork,351.85,120.49,complex,Uttar Pradesh,Diwali,1352.84
+P01418,metalwork,255.92,86.77,complex,West Bengal,Diwali,1021.07
+P01419,pottery,147.05,88.9,simple,Rajasthan,Wedding,390.32
+P01420,woodwork,678.17,363.61,simple,Tamil Nadu,Regular,1436.69
+P01421,metalwork,496.01,179.09,complex,Tamil Nadu,Wedding,2026.02
+P01422,textile,235.98,135.39,medium,West Bengal,Diwali,809.46
+P01423,metalwork,588.79,393.66,medium,Maharashtra,Regular,2099.12
+P01424,textile,398.83,136.14,simple,Uttar Pradesh,Diwali,863.88
+P01425,sarees,897.23,440.01,medium,Tamil Nadu,Summer_Festival,3352.25
+P01426,jewelry,314.29,171.16,simple,Maharashtra,Summer_Festival,847.53
+P01427,bamboo_cane,61.4,40.17,complex,Gujarat,Regular,217.57
+P01428,handmade_food,65.83,20.45,medium,Maharashtra,Diwali,162.17
+P01429,home_decor,298.8,184.88,simple,Gujarat,Regular,626.71
+P01430,handmade_food,70.24,33.35,medium,Uttar Pradesh,Regular,185.03
+P01431,dress,789.01,431.65,simple,Tamil Nadu,Summer_Festival,2109.94
+P01432,textile,243.82,123.25,simple,Tamil Nadu,Regular,522.0
+P01433,metalwork,248.25,108.01,simple,Uttar Pradesh,Wedding,630.81
+P01434,jewelry,437.98,282.1,medium,Gujarat,Wedding,1957.56
+P01435,sarees,506.25,163.87,medium,Rajasthan,Regular,1364.09
+P01436,home_decor,272.15,104.61,medium,Rajasthan,Wedding,851.24
+P01437,dress,525.21,313.94,very_complex,Uttar Pradesh,Summer_Festival,2886.9
+P01438,metalwork,404.35,273.5,medium,West Bengal,Diwali,1515.94
+P01439,textile,149.09,52.18,medium,West Bengal,Regular,355.32
+P01440,handmade_food,103.0,32.25,very_complex,Maharashtra,Summer_Festival,366.86
+P01441,metalwork,618.84,321.4,complex,Gujarat,Summer_Festival,2225.97
+P01442,bamboo_cane,115.28,58.92,simple,Rajasthan,Diwali,286.46
+P01443,dress,517.36,262.22,simple,Uttar Pradesh,Summer_Festival,1378.74
+P01444,bamboo_cane,111.81,36.35,very_complex,Rajasthan,Wedding,460.05
+P01445,home_decor,184.8,68.06,complex,Gujarat,Wedding,642.55
+P01446,jewelry,295.79,158.2,simple,Gujarat,Wedding,796.12
+P01447,pottery,147.06,63.72,simple,Uttar Pradesh,Wedding,360.84
+P01448,jewelry,586.3,350.9,very_complex,Tamil Nadu,Wedding,3365.35
+P01449,bags_accessories,357.51,244.08,medium,Gujarat,Diwali,1348.81
+P01450,handmade_food,62.07,39.29,complex,Tamil Nadu,Wedding,270.74
+P01451,metalwork,358.98,172.09,simple,Maharashtra,Summer_Festival,916.84
+P01452,jewelry,171.58,104.69,medium,Uttar Pradesh,Wedding,699.32
+P01453,home_decor,148.48,58.09,simple,Tamil Nadu,Summer_Festival,273.99
+P01454,bags_accessories,395.76,167.59,complex,Gujarat,Regular,1252.08
+P01455,bamboo_cane,119.55,55.95,medium,Rajasthan,Summer_Festival,292.23
+P01456,woodwork,448.36,182.94,simple,Gujarat,Summer_Festival,936.0
+P01457,home_decor,238.68,96.55,medium,West Bengal,Diwali,769.69
+P01458,pottery,43.8,25.31,complex,Maharashtra,Regular,153.0
+P01459,home_decor,133.41,85.03,very_complex,Maharashtra,Diwali,661.71
+P01460,sarees,1264.25,882.75,medium,Rajasthan,Wedding,5412.18
+P01461,sarees,1456.86,492.75,simple,Maharashtra,Summer_Festival,3147.74
+P01462,woodwork,606.26,308.6,simple,Gujarat,Diwali,1667.13
+P01463,sarees,597.52,401.01,very_complex,Odisha,Diwali,4241.68
+P01464,bags_accessories,254.16,99.79,complex,Maharashtra,Summer_Festival,835.09
+P01465,woodwork,764.68,494.74,complex,Rajasthan,Summer_Festival,3038.89
+P01466,textile,151.04,64.41,very_complex,Tamil Nadu,Diwali,732.08
+P01467,bamboo_cane,150.54,92.55,very_complex,Odisha,Diwali,671.07
+P01468,bamboo_cane,181.45,87.25,very_complex,Rajasthan,Diwali,860.81
+P01469,sarees,880.07,356.78,simple,Tamil Nadu,Diwali,2348.63
+P01470,jewelry,447.61,153.58,medium,Maharashtra,Diwali,1434.47
+P01471,dress,676.03,374.56,medium,Uttar Pradesh,Diwali,2718.85
+P01472,metalwork,467.33,168.65,medium,Gujarat,Diwali,1333.95
+P01473,woodwork,597.02,374.2,very_complex,West Bengal,Summer_Festival,2831.47
+P01474,dress,559.54,347.6,medium,Maharashtra,Summer_Festival,1931.13
+P01475,bags_accessories,221.69,126.77,medium,Tamil Nadu,Regular,620.67
+P01476,woodwork,302.32,199.22,complex,Tamil Nadu,Diwali,1427.48
+P01477,dress,255.43,126.47,complex,Gujarat,Regular,941.41
+P01478,home_decor,127.17,48.26,very_complex,Rajasthan,Wedding,563.59
+P01479,textile,151.85,66.48,simple,Gujarat,Diwali,343.59
+P01480,handmade_food,39.53,12.15,simple,Gujarat,Diwali,81.97
+P01481,sarees,915.69,520.39,complex,Rajasthan,Diwali,4804.13
+P01482,jewelry,483.14,249.85,complex,Maharashtra,Diwali,2170.72
+P01483,home_decor,80.37,40.09,medium,Rajasthan,Regular,230.32
+P01484,handmade_food,86.76,28.79,complex,Rajasthan,Summer_Festival,251.76
+P01485,handmade_food,111.99,78.09,complex,Maharashtra,Regular,364.22
+P01486,dress,558.04,311.17,very_complex,West Bengal,Regular,2560.19
+P01487,bags_accessories,290.93,184.35,medium,Gujarat,Regular,982.36
+P01488,home_decor,265.42,151.21,complex,Maharashtra,Summer_Festival,925.33
+P01489,pottery,127.2,66.43,medium,Tamil Nadu,Wedding,460.7
+P01490,bags_accessories,348.15,163.63,medium,Maharashtra,Wedding,1143.78
+P01491,home_decor,198.83,66.9,medium,West Bengal,Summer_Festival,530.01
+P01492,metalwork,275.28,146.87,simple,Gujarat,Wedding,740.34
+P01493,woodwork,293.45,191.38,medium,Maharashtra,Wedding,1119.46
+P01494,bamboo_cane,188.98,129.34,simple,Tamil Nadu,Summer_Festival,392.19
+P01495,sarees,1436.6,509.09,simple,Odisha,Regular,3306.12
+P01496,textile,249.91,134.35,simple,Maharashtra,Summer_Festival,562.65
+P01497,jewelry,513.67,190.3,simple,Uttar Pradesh,Diwali,1322.82
+P01498,bamboo_cane,143.76,60.92,medium,Gujarat,Summer_Festival,370.92
+P01499,pottery,31.43,13.11,medium,Rajasthan,Summer_Festival,76.71
+P01500,handmade_food,72.41,38.33,very_complex,Uttar Pradesh,Summer_Festival,328.19
+P01501,handmade_food,88.33,52.93,medium,Odisha,Diwali,296.83
+P01502,bamboo_cane,120.97,71.0,simple,Tamil Nadu,Wedding,319.41
+P01503,jewelry,164.23,66.25,complex,Maharashtra,Diwali,732.91
+P01504,woodwork,332.04,151.22,simple,Tamil Nadu,Wedding,933.49
+P01505,jewelry,310.19,128.31,medium,Uttar Pradesh,Summer_Festival,895.64
+P01506,dress,397.18,195.52,complex,Uttar Pradesh,Summer_Festival,1576.61
+P01507,bags_accessories,279.81,130.81,simple,Tamil Nadu,Regular,607.53
+P01508,textile,285.24,172.36,complex,Uttar Pradesh,Summer_Festival,1148.71
+P01509,home_decor,133.05,53.3,simple,West Bengal,Summer_Festival,256.05
+P01510,bags_accessories,215.52,128.42,medium,Gujarat,Summer_Festival,692.62
+P01511,sarees,927.79,611.84,simple,Tamil Nadu,Wedding,2930.03
+P01512,bamboo_cane,81.76,42.12,simple,Tamil Nadu,Diwali,200.3
+P01513,sarees,942.3,548.34,medium,Odisha,Summer_Festival,3347.76
+P01514,metalwork,343.18,214.42,simple,Odisha,Summer_Festival,846.52
+P01515,metalwork,409.47,204.05,medium,Gujarat,Regular,1251.93
+P01516,metalwork,680.54,342.78,simple,West Bengal,Diwali,1810.26
+P01517,woodwork,504.06,176.73,simple,West Bengal,Summer_Festival,1067.23
+P01518,jewelry,216.11,112.56,medium,Odisha,Summer_Festival,754.11
+P01519,woodwork,224.31,78.32,medium,Tamil Nadu,Diwali,638.35
+P01520,sarees,1085.55,633.66,complex,Odisha,Summer_Festival,4994.7
+P01521,woodwork,250.32,174.5,simple,Gujarat,Regular,589.72
+P01522,dress,491.69,223.31,complex,Odisha,Wedding,2211.52
+P01523,dress,658.79,199.82,simple,Gujarat,Summer_Festival,1523.23
+P01524,sarees,1257.93,771.53,simple,Tamil Nadu,Diwali,3850.39
+P01525,textile,124.8,43.74,medium,Tamil Nadu,Diwali,354.17
+P01526,handmade_food,34.04,22.74,medium,Rajasthan,Summer_Festival,100.16
+P01527,sarees,449.21,173.26,simple,Uttar Pradesh,Wedding,1159.23
+P01528,home_decor,305.6,187.51,medium,Gujarat,Wedding,1146.78
+P01529,bags_accessories,269.67,150.92,medium,Maharashtra,Summer_Festival,835.36
+P01530,jewelry,194.3,129.54,complex,Uttar Pradesh,Regular,839.01
+P01531,bags_accessories,212.07,81.8,simple,West Bengal,Regular,448.31
+P01532,handmade_food,79.18,35.04,very_complex,Rajasthan,Wedding,321.25
+P01533,bamboo_cane,55.95,22.88,medium,Maharashtra,Summer_Festival,149.17
+P01534,dress,298.03,127.8,medium,Maharashtra,Summer_Festival,944.63
+P01535,sarees,489.75,213.24,medium,Uttar Pradesh,Diwali,1615.31
+P01536,textile,291.4,160.7,medium,Gujarat,Wedding,1069.28
+P01537,handmade_food,32.51,20.22,medium,Maharashtra,Summer_Festival,84.58
+P01538,pottery,118.2,40.68,medium,Uttar Pradesh,Diwali,356.62
+P01539,bags_accessories,316.45,95.69,medium,Rajasthan,Wedding,982.24
+P01540,home_decor,186.3,72.84,simple,Uttar Pradesh,Regular,338.95
+P01541,bamboo_cane,54.08,35.55,medium,Odisha,Summer_Festival,155.53
+P01542,textile,134.36,57.2,complex,Uttar Pradesh,Summer_Festival,512.67
+P01543,sarees,1484.5,776.03,simple,Tamil Nadu,Regular,3672.31
+P01544,sarees,707.04,303.37,simple,Maharashtra,Wedding,2120.97
+P01545,metalwork,581.73,219.2,simple,West Bengal,Regular,1234.64
+P01546,bags_accessories,298.46,160.2,simple,Rajasthan,Diwali,828.58
+P01547,bamboo_cane,148.55,80.68,medium,Maharashtra,Diwali,436.06
+P01548,woodwork,587.24,337.63,simple,Uttar Pradesh,Summer_Festival,1419.53
+P01549,bags_accessories,283.57,127.44,complex,West Bengal,Regular,1026.27
+P01550,jewelry,414.46,166.15,very_complex,West Bengal,Diwali,2010.03
+P01551,woodwork,771.06,475.21,medium,Maharashtra,Summer_Festival,2487.4
+P01552,woodwork,515.22,303.96,very_complex,Tamil Nadu,Wedding,2911.33
+P01553,textile,273.47,136.53,medium,Rajasthan,Diwali,934.05
+P01554,bamboo_cane,145.51,96.88,very_complex,Rajasthan,Diwali,665.33
+P01555,bamboo_cane,46.22,26.05,simple,Rajasthan,Wedding,107.61
+P01556,jewelry,195.57,126.93,simple,Uttar Pradesh,Summer_Festival,542.63
+P01557,dress,497.89,218.72,simple,Maharashtra,Summer_Festival,1254.52
+P01558,bamboo_cane,123.29,56.31,medium,Tamil Nadu,Summer_Festival,323.62
+P01559,bamboo_cane,63.25,26.98,complex,West Bengal,Diwali,236.38
+P01560,textile,246.95,125.2,medium,Rajasthan,Regular,715.87
+P01561,handmade_food,79.24,25.06,medium,West Bengal,Summer_Festival,178.23
+P01562,sarees,1429.96,835.74,simple,Tamil Nadu,Wedding,4433.11
+P01563,jewelry,498.7,227.95,very_complex,Tamil Nadu,Summer_Festival,2443.68
+P01564,sarees,1416.44,631.53,complex,Odisha,Diwali,6864.29
+P01565,pottery,92.06,41.24,complex,Tamil Nadu,Regular,312.97
+P01566,sarees,1146.59,686.06,simple,Rajasthan,Diwali,3793.99
+P01567,jewelry,212.2,97.53,complex,West Bengal,Diwali,999.37
+P01568,jewelry,195.93,105.91,medium,Uttar Pradesh,Wedding,809.72
+P01569,metalwork,197.44,133.2,complex,Uttar Pradesh,Diwali,890.34
+P01570,dress,287.32,107.84,medium,Maharashtra,Regular,797.43
+P01571,dress,355.85,208.87,simple,Rajasthan,Wedding,1180.39
+P01572,sarees,870.79,471.2,simple,Rajasthan,Regular,2503.13
+P01573,dress,478.41,225.45,medium,Maharashtra,Wedding,1890.44
+P01574,pottery,100.2,57.69,complex,Gujarat,Wedding,461.68
+P01575,pottery,92.5,37.69,simple,Tamil Nadu,Summer_Festival,201.97
+P01576,pottery,125.2,55.58,complex,Maharashtra,Wedding,528.58
+P01577,handmade_food,76.03,45.13,simple,Tamil Nadu,Wedding,185.65
+P01578,home_decor,291.82,109.18,simple,West Bengal,Wedding,691.78
+P01579,woodwork,275.68,185.55,medium,Tamil Nadu,Summer_Festival,964.19
+P01580,pottery,42.99,28.95,simple,West Bengal,Diwali,111.97
+P01581,pottery,132.47,48.87,very_complex,Tamil Nadu,Wedding,581.39
+P01582,metalwork,166.66,101.37,simple,Odisha,Diwali,473.62
+P01583,woodwork,678.77,356.52,simple,West Bengal,Regular,1399.43
+P01584,pottery,51.74,29.43,simple,Rajasthan,Wedding,135.26
+P01585,dress,867.74,542.93,complex,Tamil Nadu,Diwali,4488.56
+P01586,woodwork,488.59,186.84,medium,West Bengal,Summer_Festival,1473.79
+P01587,woodwork,447.92,291.48,simple,Odisha,Diwali,1180.07
+P01588,dress,253.26,126.74,medium,Gujarat,Diwali,942.95
+P01589,jewelry,399.69,247.2,medium,Odisha,Diwali,1393.79
+P01590,jewelry,353.14,140.83,simple,Odisha,Summer_Festival,877.98
+P01591,handmade_food,53.97,35.61,medium,Rajasthan,Diwali,188.98
+P01592,bags_accessories,321.05,157.44,complex,Uttar Pradesh,Regular,1061.69
+P01593,sarees,740.61,227.78,medium,West Bengal,Summer_Festival,2067.62
+P01594,bags_accessories,352.31,178.06,medium,West Bengal,Diwali,1103.52
+P01595,textile,180.58,92.77,medium,Tamil Nadu,Wedding,682.19
+P01596,sarees,1224.98,527.83,simple,Uttar Pradesh,Diwali,3250.06
+P01597,jewelry,354.19,178.08,very_complex,Odisha,Summer_Festival,1855.45
+P01598,dress,596.59,407.43,complex,Gujarat,Regular,2476.82
+P01599,textile,299.11,135.33,simple,Tamil Nadu,Regular,680.26
+P01600,home_decor,349.1,229.47,very_complex,Rajasthan,Regular,1624.33
+P01601,metalwork,615.47,364.92,complex,Rajasthan,Summer_Festival,2525.4
+P01602,dress,558.42,290.12,medium,Uttar Pradesh,Wedding,2134.19
+P01603,metalwork,496.46,152.48,medium,Odisha,Diwali,1467.23
+P01604,woodwork,355.19,154.96,simple,Rajasthan,Regular,698.51
+P01605,handmade_food,65.75,26.79,medium,Odisha,Diwali,174.37
+P01606,bags_accessories,280.65,139.54,medium,West Bengal,Summer_Festival,909.51
+P01607,dress,346.76,226.74,medium,Gujarat,Summer_Festival,1281.64
+P01608,textile,393.21,250.65,medium,Odisha,Diwali,1350.94
+P01609,bamboo_cane,162.53,77.44,complex,Maharashtra,Regular,520.75
+P01610,home_decor,127.03,68.1,medium,Tamil Nadu,Summer_Festival,387.46
+P01611,bags_accessories,353.03,213.48,medium,Tamil Nadu,Regular,1007.11
+P01612,bags_accessories,295.36,189.77,medium,Rajasthan,Diwali,1003.57
+P01613,handmade_food,56.6,32.95,simple,Maharashtra,Diwali,134.23
+P01614,bags_accessories,156.59,54.08,simple,West Bengal,Diwali,366.8
+P01615,metalwork,427.84,219.28,simple,Uttar Pradesh,Summer_Festival,1081.5
+P01616,handmade_food,107.66,35.74,medium,Maharashtra,Summer_Festival,268.61
+P01617,handmade_food,113.04,36.48,medium,Gujarat,Wedding,274.69
+P01618,jewelry,319.17,164.04,simple,Maharashtra,Regular,831.37
+P01619,dress,437.39,143.55,complex,Tamil Nadu,Wedding,1813.22
+P01620,sarees,309.73,94.07,simple,Odisha,Regular,681.05
+P01621,dress,326.25,207.69,medium,Gujarat,Wedding,1202.38
+P01622,handmade_food,56.74,18.25,simple,Odisha,Wedding,119.25
+P01623,home_decor,96.01,40.53,complex,Uttar Pradesh,Diwali,379.62
+P01624,jewelry,525.36,159.32,complex,Odisha,Wedding,1982.63
+P01625,textile,384.72,235.02,medium,Rajasthan,Diwali,1330.12
+P01626,handmade_food,113.22,50.01,simple,Tamil Nadu,Wedding,262.87
+P01627,bamboo_cane,156.09,61.18,simple,Tamil Nadu,Wedding,305.11
+P01628,bamboo_cane,100.78,49.42,simple,Odisha,Summer_Festival,186.35
+P01629,home_decor,120.75,74.51,medium,West Bengal,Diwali,440.36
+P01630,bamboo_cane,177.51,71.45,simple,Gujarat,Summer_Festival,331.69
+P01631,metalwork,191.72,108.27,simple,Rajasthan,Regular,445.33
+P01632,woodwork,772.78,518.01,medium,Uttar Pradesh,Diwali,3131.53
+P01633,sarees,445.2,163.6,simple,Tamil Nadu,Summer_Festival,1046.67
+P01634,bags_accessories,123.35,55.44,complex,Maharashtra,Regular,445.3
+P01635,jewelry,511.94,337.73,simple,West Bengal,Diwali,1602.09
+P01636,pottery,90.39,50.17,simple,Uttar Pradesh,Summer_Festival,198.2
+P01637,metalwork,464.52,247.85,simple,Uttar Pradesh,Regular,1006.53
+P01638,bags_accessories,255.0,151.57,very_complex,Tamil Nadu,Summer_Festival,1295.26
+P01639,pottery,40.62,22.08,medium,Odisha,Regular,109.28
+P01640,metalwork,228.06,96.22,simple,Gujarat,Diwali,595.47
+P01641,bags_accessories,182.83,70.75,simple,Tamil Nadu,Summer_Festival,379.75
+P01642,sarees,736.05,357.58,complex,Odisha,Diwali,3748.55
+P01643,textile,123.48,83.15,very_complex,Rajasthan,Wedding,723.51
+P01644,jewelry,421.85,239.73,simple,Rajasthan,Regular,1080.23
+P01645,jewelry,280.63,172.48,simple,Uttar Pradesh,Summer_Festival,709.37
+P01646,metalwork,408.64,278.6,simple,Odisha,Wedding,1141.95
+P01647,jewelry,569.64,227.51,simple,West Bengal,Wedding,1574.16
+P01648,woodwork,552.09,349.53,medium,Tamil Nadu,Wedding,1929.31
+P01649,metalwork,155.88,74.15,medium,Gujarat,Summer_Festival,503.32
+P01650,pottery,42.29,13.73,complex,West Bengal,Diwali,131.36
+P01651,bamboo_cane,158.85,50.89,simple,West Bengal,Regular,257.45
+P01652,metalwork,157.81,57.03,medium,Gujarat,Diwali,474.18
+P01653,dress,737.02,415.62,medium,Uttar Pradesh,Wedding,2845.89
+P01654,bamboo_cane,82.07,36.95,complex,Rajasthan,Wedding,296.94
+P01655,handmade_food,31.73,19.32,simple,Tamil Nadu,Summer_Festival,65.1
+P01656,textile,348.35,107.65,medium,Rajasthan,Diwali,970.19
+P01657,sarees,595.52,393.85,complex,Rajasthan,Diwali,2849.88
+P01658,pottery,64.86,23.74,complex,Tamil Nadu,Wedding,258.23
+P01659,metalwork,654.82,297.83,simple,Gujarat,Summer_Festival,1519.22
+P01660,jewelry,171.41,77.85,medium,Odisha,Diwali,555.48
+P01661,metalwork,652.38,267.62,medium,West Bengal,Regular,1901.93
+P01662,bamboo_cane,43.46,21.44,simple,Gujarat,Summer_Festival,88.61
+P01663,handmade_food,44.6,20.81,simple,Maharashtra,Wedding,108.84
+P01664,sarees,913.56,622.83,simple,Tamil Nadu,Regular,2600.68
+P01665,metalwork,646.17,430.98,very_complex,Maharashtra,Wedding,4211.74
+P01666,bamboo_cane,82.01,25.89,medium,West Bengal,Summer_Festival,184.02
+P01667,handmade_food,93.56,57.36,simple,Gujarat,Diwali,223.61
+P01668,jewelry,329.17,175.11,medium,West Bengal,Wedding,1371.47
+P01669,bags_accessories,252.49,78.17,medium,West Bengal,Regular,620.68
+P01670,woodwork,477.41,222.03,simple,Gujarat,Wedding,1197.66
+P01671,pottery,82.64,37.79,complex,Rajasthan,Regular,288.46
+P01672,metalwork,437.64,151.34,simple,Gujarat,Summer_Festival,909.25
+P01673,pottery,110.63,73.53,simple,Uttar Pradesh,Summer_Festival,270.83
+P01674,pottery,52.56,33.84,complex,Tamil Nadu,Wedding,220.99
+P01675,dress,212.2,125.95,simple,West Bengal,Diwali,569.13
+P01676,home_decor,204.83,119.96,complex,Odisha,Diwali,876.14
+P01677,metalwork,252.39,88.4,very_complex,Rajasthan,Wedding,1138.11
+P01678,jewelry,485.81,263.23,complex,Odisha,Diwali,2287.37
+P01679,metalwork,572.51,269.12,medium,Gujarat,Wedding,1952.66
+P01680,home_decor,174.27,99.01,complex,Maharashtra,Wedding,755.5
+P01681,home_decor,108.75,54.02,very_complex,Tamil Nadu,Wedding,576.27
+P01682,woodwork,247.79,81.26,very_complex,Gujarat,Wedding,1217.76
+P01683,metalwork,683.97,464.41,very_complex,Maharashtra,Diwali,4266.64
+P01684,bags_accessories,395.81,147.31,complex,Odisha,Diwali,1578.77
+P01685,bags_accessories,304.39,156.26,simple,Tamil Nadu,Regular,692.97
+P01686,sarees,427.87,283.42,simple,Uttar Pradesh,Regular,1098.25
+P01687,woodwork,661.04,221.9,very_complex,Uttar Pradesh,Wedding,2994.96
+P01688,pottery,92.09,28.18,simple,Rajasthan,Summer_Festival,168.47
+P01689,woodwork,587.21,273.58,medium,Rajasthan,Summer_Festival,1914.16
+P01690,home_decor,262.47,137.52,simple,Uttar Pradesh,Wedding,710.91
+P01691,sarees,318.88,128.77,simple,Tamil Nadu,Summer_Festival,824.85
+P01692,textile,387.13,224.04,simple,Gujarat,Summer_Festival,981.08
+P01693,jewelry,441.89,260.11,medium,West Bengal,Summer_Festival,1644.43
+P01694,bamboo_cane,166.66,81.71,simple,Gujarat,Diwali,374.03
+P01695,pottery,116.26,62.95,medium,Maharashtra,Regular,353.33
+P01696,woodwork,346.97,205.36,simple,Rajasthan,Summer_Festival,924.03
+P01697,jewelry,520.51,297.86,complex,Odisha,Summer_Festival,2327.35
+P01698,metalwork,153.73,48.79,complex,Maharashtra,Regular,525.32
+P01699,handmade_food,107.67,53.03,simple,Maharashtra,Wedding,229.56
+P01700,dress,480.23,214.47,simple,Maharashtra,Wedding,1349.72
+P01701,bamboo_cane,40.8,19.22,complex,Odisha,Regular,117.29
+P01702,dress,698.53,371.56,complex,West Bengal,Wedding,3071.57
+P01703,sarees,1164.8,607.94,simple,West Bengal,Regular,2967.17
+P01704,textile,165.17,96.73,medium,Odisha,Diwali,572.03
+P01705,woodwork,630.23,210.31,simple,Maharashtra,Summer_Festival,1406.42
+P01706,textile,271.98,105.55,complex,Tamil Nadu,Wedding,1166.05
+P01707,woodwork,446.75,300.21,medium,Odisha,Regular,1410.99
+P01708,jewelry,225.83,70.5,complex,Odisha,Summer_Festival,769.16
+P01709,pottery,84.18,56.85,simple,Gujarat,Wedding,219.04
+P01710,pottery,66.56,34.43,medium,Maharashtra,Wedding,199.41
+P01711,pottery,41.02,19.61,medium,West Bengal,Regular,121.37
+P01712,home_decor,233.3,161.59,complex,Uttar Pradesh,Summer_Festival,1002.74
+P01713,sarees,1112.55,722.94,simple,Odisha,Diwali,3767.24
+P01714,pottery,64.72,25.98,simple,Uttar Pradesh,Diwali,141.09
+P01715,bamboo_cane,131.06,87.97,very_complex,West Bengal,Wedding,687.51
+P01716,handmade_food,61.45,36.67,simple,Uttar Pradesh,Summer_Festival,140.81
+P01717,metalwork,582.67,354.25,complex,Gujarat,Diwali,2770.78
+P01718,dress,700.85,240.99,medium,Uttar Pradesh,Diwali,2365.36
+P01719,metalwork,607.38,408.76,simple,West Bengal,Regular,1600.45
+P01720,sarees,1296.21,881.74,simple,Gujarat,Wedding,4562.32
+P01721,woodwork,463.35,315.67,medium,Maharashtra,Summer_Festival,1629.56
+P01722,jewelry,165.04,103.37,simple,Odisha,Regular,425.19
+P01723,pottery,44.95,28.91,medium,Tamil Nadu,Wedding,174.13
+P01724,textile,306.08,182.75,medium,Tamil Nadu,Summer_Festival,936.8
+P01725,bags_accessories,109.63,61.12,medium,Maharashtra,Wedding,420.57
+P01726,home_decor,330.51,143.13,complex,Uttar Pradesh,Diwali,1220.88
+P01727,bags_accessories,130.24,52.63,medium,Odisha,Diwali,383.6
+P01728,dress,208.44,65.39,very_complex,Uttar Pradesh,Summer_Festival,957.3
+P01729,sarees,624.3,313.31,medium,Maharashtra,Wedding,2723.05
+P01730,textile,203.44,133.75,complex,Rajasthan,Wedding,930.62
+P01731,dress,208.1,87.37,medium,Rajasthan,Summer_Festival,661.2
+P01732,bags_accessories,107.63,59.96,medium,Tamil Nadu,Regular,352.47
+P01733,woodwork,507.22,179.95,medium,Maharashtra,Diwali,1491.98
+P01734,bamboo_cane,81.31,25.62,medium,Rajasthan,Diwali,211.28
+P01735,dress,370.29,241.04,complex,Tamil Nadu,Diwali,1887.19
+P01736,jewelry,513.32,284.5,complex,Gujarat,Diwali,2256.58
+P01737,bamboo_cane,141.28,75.06,simple,Maharashtra,Summer_Festival,281.08
+P01738,textile,296.74,148.02,medium,Rajasthan,Summer_Festival,825.42
+P01739,bamboo_cane,161.17,62.99,complex,West Bengal,Summer_Festival,462.27
+P01740,woodwork,787.15,540.12,simple,Uttar Pradesh,Diwali,2251.2
+P01741,pottery,93.87,50.95,simple,Uttar Pradesh,Diwali,232.64
+P01742,sarees,567.12,229.39,simple,Odisha,Summer_Festival,1425.15
+P01743,jewelry,400.22,165.67,medium,Odisha,Diwali,1224.81
+P01744,home_decor,107.68,58.69,simple,Maharashtra,Diwali,246.12
+P01745,dress,678.11,377.99,simple,West Bengal,Diwali,1754.81
+P01746,dress,677.28,472.34,complex,Odisha,Diwali,3203.3
+P01747,home_decor,211.34,116.26,medium,Rajasthan,Summer_Festival,667.03
+P01748,dress,401.59,267.46,simple,Maharashtra,Wedding,1379.06
+P01749,woodwork,511.57,329.03,complex,Uttar Pradesh,Wedding,2368.33
+P01750,textile,248.38,123.19,simple,Tamil Nadu,Wedding,674.01
+P01751,bamboo_cane,173.43,90.43,simple,Rajasthan,Diwali,403.63
+P01752,jewelry,206.53,96.53,medium,Gujarat,Summer_Festival,641.31
+P01753,dress,297.94,150.54,medium,West Bengal,Summer_Festival,929.02
+P01754,jewelry,342.35,188.52,simple,West Bengal,Regular,888.06
+P01755,jewelry,262.7,172.44,medium,West Bengal,Summer_Festival,918.62
+P01756,jewelry,226.75,80.38,complex,Uttar Pradesh,Summer_Festival,847.1
+P01757,pottery,85.31,50.97,simple,Uttar Pradesh,Summer_Festival,219.8
+P01758,bags_accessories,256.38,94.56,simple,Gujarat,Wedding,607.11
+P01759,handmade_food,95.06,53.03,medium,Uttar Pradesh,Diwali,300.96
+P01760,metalwork,524.51,345.6,medium,Rajasthan,Wedding,2195.21
+P01761,sarees,499.57,290.83,complex,Tamil Nadu,Diwali,2369.31
+P01762,handmade_food,108.12,59.72,complex,Tamil Nadu,Diwali,399.3
+P01763,pottery,61.41,31.01,complex,Tamil Nadu,Diwali,230.01
+P01764,bags_accessories,390.61,130.28,medium,Gujarat,Wedding,1181.6
+P01765,dress,582.27,224.52,complex,Gujarat,Regular,2055.27
+P01766,woodwork,277.86,166.72,complex,Rajasthan,Regular,981.47
+P01767,home_decor,148.29,46.89,simple,West Bengal,Diwali,308.14
+P01768,home_decor,129.75,49.98,simple,Odisha,Wedding,288.12
+P01769,sarees,1411.45,473.37,medium,Tamil Nadu,Diwali,5225.58
+P01770,metalwork,398.24,180.67,medium,West Bengal,Summer_Festival,1169.28
+P01771,metalwork,172.67,92.16,complex,Rajasthan,Regular,578.21
+P01772,metalwork,375.24,168.82,medium,Uttar Pradesh,Summer_Festival,1208.77
+P01773,woodwork,627.93,229.58,medium,Rajasthan,Diwali,2098.16
+P01774,bamboo_cane,181.3,96.24,simple,Maharashtra,Wedding,420.32
+P01775,metalwork,347.49,110.57,very_complex,Uttar Pradesh,Diwali,1689.55
+P01776,bags_accessories,399.37,161.12,complex,Gujarat,Wedding,1686.59
+P01777,textile,293.6,137.1,simple,Maharashtra,Regular,619.89
+P01778,pottery,115.11,59.03,very_complex,Rajasthan,Diwali,558.25
+P01779,metalwork,454.06,182.21,complex,Maharashtra,Diwali,1916.13
+P01780,pottery,37.16,23.22,complex,Uttar Pradesh,Regular,129.86
+P01781,woodwork,547.98,183.9,complex,Odisha,Summer_Festival,1915.89
+P01782,home_decor,174.63,112.38,simple,Odisha,Summer_Festival,390.39
+P01783,home_decor,324.37,153.7,simple,West Bengal,Summer_Festival,701.09
+P01784,handmade_food,77.82,29.61,simple,Maharashtra,Wedding,160.37
+P01785,dress,635.84,356.77,medium,Rajasthan,Regular,2175.87
+P01786,bamboo_cane,182.04,124.35,medium,Odisha,Wedding,667.05
+P01787,pottery,71.54,31.14,simple,West Bengal,Diwali,175.5
+P01788,metalwork,426.78,207.38,medium,Rajasthan,Wedding,1631.59
+P01789,jewelry,516.31,315.33,simple,Tamil Nadu,Summer_Festival,1477.79
+P01790,handmade_food,110.41,41.7,simple,Rajasthan,Regular,183.13
+P01791,metalwork,285.3,142.32,simple,Uttar Pradesh,Summer_Festival,715.17
+P01792,metalwork,560.03,281.21,medium,Uttar Pradesh,Wedding,2026.65
+P01793,dress,395.1,143.64,medium,Rajasthan,Wedding,1262.85
+P01794,textile,270.35,85.64,medium,West Bengal,Regular,649.3
+P01795,home_decor,144.08,59.86,complex,Uttar Pradesh,Diwali,571.37
+P01796,woodwork,294.36,163.99,medium,Uttar Pradesh,Wedding,1080.33
+P01797,sarees,692.85,424.29,medium,Uttar Pradesh,Wedding,3164.38
+P01798,woodwork,425.83,178.27,complex,Maharashtra,Wedding,1875.32
+P01799,home_decor,258.19,153.21,medium,Tamil Nadu,Wedding,878.49
+P01800,handmade_food,92.44,55.82,medium,Maharashtra,Diwali,308.49
+P01801,textile,176.62,96.33,simple,Odisha,Regular,445.87
+P01802,home_decor,156.7,102.2,simple,Uttar Pradesh,Regular,349.94
+P01803,handmade_food,63.33,19.51,medium,Tamil Nadu,Wedding,168.81
+P01804,metalwork,651.3,237.52,medium,Rajasthan,Summer_Festival,1772.14
+P01805,dress,566.83,299.76,medium,Maharashtra,Regular,1929.77
+P01806,dress,523.24,347.5,medium,Odisha,Regular,1748.38
+P01807,jewelry,263.18,152.08,medium,Uttar Pradesh,Diwali,1046.84
+P01808,bags_accessories,131.12,83.18,simple,Rajasthan,Regular,341.67
+P01809,handmade_food,101.7,54.92,simple,Gujarat,Summer_Festival,222.81
+P01810,bags_accessories,238.77,129.07,simple,West Bengal,Diwali,671.29
+P01811,woodwork,390.81,241.72,simple,Rajasthan,Diwali,1076.22
+P01812,home_decor,98.14,39.38,complex,Tamil Nadu,Summer_Festival,343.37
+P01813,pottery,107.63,53.56,simple,Rajasthan,Regular,231.09
+P01814,bamboo_cane,125.47,71.71,complex,West Bengal,Summer_Festival,462.82
+P01815,bags_accessories,359.43,171.87,simple,Odisha,Wedding,997.28
+P01816,metalwork,619.41,284.47,simple,Uttar Pradesh,Wedding,1562.68
+P01817,bamboo_cane,54.45,28.59,medium,Rajasthan,Diwali,160.71
+P01818,bamboo_cane,162.76,107.77,complex,Uttar Pradesh,Diwali,635.39
+P01819,metalwork,237.61,112.66,complex,Odisha,Regular,824.15
+P01820,sarees,911.87,311.79,medium,Maharashtra,Summer_Festival,3042.98
+P01821,textile,127.3,49.95,simple,Gujarat,Regular,241.76
+P01822,home_decor,185.8,78.78,medium,Maharashtra,Regular,457.61
+P01823,handmade_food,61.88,40.99,complex,Odisha,Wedding,277.35
+P01824,dress,400.99,149.77,medium,Uttar Pradesh,Summer_Festival,1173.71
+P01825,dress,570.84,244.72,medium,Rajasthan,Summer_Festival,1629.79
+P01826,bamboo_cane,117.1,61.51,simple,Maharashtra,Regular,236.54
+P01827,handmade_food,93.02,48.29,simple,Odisha,Diwali,215.89
+P01828,textile,162.52,91.75,simple,Tamil Nadu,Wedding,495.33
+P01829,textile,107.25,45.32,medium,Maharashtra,Wedding,368.88
+P01830,jewelry,325.3,164.12,simple,Tamil Nadu,Diwali,977.81
+P01831,woodwork,498.55,150.86,very_complex,West Bengal,Diwali,2065.61
+P01832,dress,657.52,417.7,very_complex,Maharashtra,Regular,3458.05
+P01833,textile,221.55,93.44,medium,Maharashtra,Summer_Festival,668.48
+P01834,woodwork,653.06,392.05,very_complex,Rajasthan,Wedding,3585.97
+P01835,pottery,60.76,31.07,medium,Rajasthan,Summer_Festival,168.14
+P01836,bamboo_cane,198.81,113.67,complex,Gujarat,Diwali,812.73
+P01837,bags_accessories,249.02,134.47,simple,Rajasthan,Regular,538.51
+P01838,handmade_food,104.93,61.48,simple,Tamil Nadu,Wedding,271.55
+P01839,textile,295.45,119.25,complex,Gujarat,Diwali,1046.08
+P01840,bamboo_cane,156.43,51.53,simple,Rajasthan,Regular,255.36
+P01841,dress,629.91,236.39,complex,Gujarat,Regular,2122.49
+P01842,home_decor,118.63,79.46,simple,Tamil Nadu,Regular,255.36
+P01843,textile,339.61,134.93,medium,Rajasthan,Diwali,1112.13
+P01844,handmade_food,103.0,67.09,simple,Gujarat,Wedding,242.6
+P01845,sarees,521.24,248.75,complex,Rajasthan,Summer_Festival,2052.08
+P01846,sarees,1299.33,559.4,simple,Odisha,Diwali,3799.4
+P01847,dress,724.83,256.95,medium,Maharashtra,Regular,2204.61
+P01848,dress,336.8,102.54,simple,Odisha,Diwali,766.73
+P01849,handmade_food,109.9,63.47,simple,Tamil Nadu,Summer_Festival,231.66
+P01850,bags_accessories,290.2,129.33,medium,Maharashtra,Diwali,1007.1
+P01851,sarees,551.92,336.93,medium,Rajasthan,Diwali,2252.87
+P01852,jewelry,425.09,135.09,medium,Tamil Nadu,Wedding,1468.71
+P01853,dress,814.01,526.75,medium,Gujarat,Wedding,3313.79
+P01854,home_decor,166.76,98.36,simple,West Bengal,Summer_Festival,372.96
+P01855,pottery,120.06,52.3,medium,Tamil Nadu,Diwali,375.89
+P01856,dress,717.82,287.76,very_complex,Rajasthan,Summer_Festival,3216.92
+P01857,pottery,87.89,47.37,medium,Rajasthan,Wedding,293.78
+P01858,bamboo_cane,182.2,74.34,complex,Maharashtra,Summer_Festival,579.1
+P01859,woodwork,775.43,388.46,complex,West Bengal,Wedding,3631.55
+P01860,bags_accessories,289.78,113.86,medium,Odisha,Wedding,1019.6
+P01861,handmade_food,60.5,37.98,simple,Maharashtra,Diwali,136.35
+P01862,metalwork,288.84,88.8,simple,West Bengal,Wedding,706.83
+P01863,bamboo_cane,50.69,34.31,medium,Odisha,Summer_Festival,165.5
+P01864,textile,190.29,98.14,simple,Gujarat,Summer_Festival,479.41
+P01865,bags_accessories,349.96,203.76,complex,Gujarat,Regular,1349.48
+P01866,jewelry,474.91,269.08,simple,Tamil Nadu,Summer_Festival,1158.59
+P01867,jewelry,463.86,233.09,very_complex,West Bengal,Diwali,2321.45
+P01868,bags_accessories,390.77,148.44,simple,Odisha,Diwali,848.26
+P01869,metalwork,681.53,361.2,simple,Odisha,Summer_Festival,1770.38
+P01870,metalwork,409.25,264.97,complex,West Bengal,Summer_Festival,1628.21
+P01871,bamboo_cane,182.25,123.04,complex,Maharashtra,Regular,578.31
+P01872,textile,131.34,63.01,medium,Odisha,Diwali,417.27
+P01873,metalwork,456.22,211.92,complex,Uttar Pradesh,Regular,1590.82
+P01874,home_decor,300.53,113.76,medium,West Bengal,Summer_Festival,745.01
+P01875,dress,635.52,339.42,medium,West Bengal,Wedding,2326.81
+P01876,handmade_food,105.02,48.52,complex,Gujarat,Regular,348.87
+P01877,jewelry,332.32,127.69,medium,Gujarat,Summer_Festival,1023.35
+P01878,jewelry,518.65,172.17,simple,Uttar Pradesh,Diwali,1361.48
+P01879,textile,283.66,102.45,complex,Odisha,Summer_Festival,888.57
+P01880,textile,254.31,136.18,simple,Rajasthan,Regular,619.69
+P01881,woodwork,296.22,165.6,medium,Uttar Pradesh,Diwali,1124.58
+P01882,bags_accessories,342.07,142.84,simple,Tamil Nadu,Wedding,829.88
+P01883,jewelry,372.83,202.7,simple,West Bengal,Wedding,1055.27
+P01884,textile,107.61,64.57,medium,West Bengal,Regular,316.6
+P01885,jewelry,253.54,102.02,very_complex,Rajasthan,Wedding,1237.56
+P01886,jewelry,344.89,129.96,simple,Gujarat,Summer_Festival,862.27
+P01887,handmade_food,51.85,22.27,medium,Tamil Nadu,Wedding,164.32
+P01888,bags_accessories,117.44,78.88,simple,Gujarat,Regular,278.14
+P01889,bags_accessories,264.07,98.99,medium,Odisha,Summer_Festival,673.88
+P01890,jewelry,466.08,243.68,complex,Gujarat,Diwali,2237.04
+P01891,textile,369.11,247.47,medium,Tamil Nadu,Summer_Festival,1231.86
+P01892,handmade_food,94.95,33.82,very_complex,Odisha,Regular,327.4
+P01893,bags_accessories,100.8,66.28,simple,Uttar Pradesh,Summer_Festival,283.35
+P01894,woodwork,615.57,330.48,medium,West Bengal,Summer_Festival,2083.75
+P01895,handmade_food,33.87,21.95,simple,Uttar Pradesh,Regular,75.16
+P01896,metalwork,414.15,268.44,simple,Rajasthan,Regular,995.1
+P01897,jewelry,403.84,207.26,medium,Gujarat,Regular,1179.04
+P01898,handmade_food,79.03,28.15,medium,Maharashtra,Regular,194.53
+P01899,jewelry,258.3,168.12,very_complex,Gujarat,Summer_Festival,1402.76
+P01900,sarees,1104.5,742.78,complex,Maharashtra,Wedding,5906.37
+P01901,sarees,1388.25,685.5,complex,Maharashtra,Summer_Festival,5875.64
+P01902,textile,128.04,74.61,complex,Maharashtra,Diwali,558.12
+P01903,pottery,117.4,72.73,simple,Tamil Nadu,Wedding,347.86
+P01904,bamboo_cane,51.04,35.08,medium,Uttar Pradesh,Summer_Festival,164.65
+P01905,dress,417.82,207.3,very_complex,Maharashtra,Diwali,2425.93
+P01906,dress,577.54,373.29,complex,Tamil Nadu,Diwali,2593.3
+P01907,handmade_food,114.34,41.94,simple,Uttar Pradesh,Diwali,243.81
+P01908,sarees,1275.73,399.76,simple,Odisha,Diwali,3007.7
+P01909,home_decor,140.61,73.23,simple,Maharashtra,Wedding,349.0
+P01910,jewelry,507.79,155.03,very_complex,West Bengal,Wedding,2569.57
+P01911,sarees,1495.37,645.73,simple,Gujarat,Regular,3553.69
+P01912,home_decor,206.96,125.79,medium,Odisha,Summer_Festival,585.68
+P01913,sarees,1253.46,396.1,medium,Tamil Nadu,Regular,3523.26
+P01914,jewelry,521.82,309.2,medium,Uttar Pradesh,Wedding,2277.22
+P01915,woodwork,781.59,334.11,simple,Maharashtra,Diwali,1889.9
+P01916,bags_accessories,296.73,165.17,medium,West Bengal,Wedding,1018.05
+P01917,woodwork,303.46,190.05,very_complex,Uttar Pradesh,Diwali,1669.67
+P01918,metalwork,352.55,196.9,simple,Tamil Nadu,Regular,747.49
+P01919,bags_accessories,219.74,105.29,complex,Odisha,Diwali,960.11
+P01920,bamboo_cane,191.84,129.69,complex,Gujarat,Regular,653.04
+P01921,metalwork,528.5,366.98,simple,Maharashtra,Wedding,1697.94
+P01922,sarees,401.15,219.84,simple,Odisha,Summer_Festival,1030.29
+P01923,home_decor,310.65,95.97,simple,Odisha,Regular,581.74
+P01924,textile,382.91,142.39,simple,Maharashtra,Diwali,935.63
+P01925,pottery,138.26,42.14,simple,Maharashtra,Regular,252.48
+P01926,bamboo_cane,73.4,36.28,medium,Maharashtra,Diwali,195.51
+P01927,pottery,113.22,76.55,complex,Maharashtra,Summer_Festival,451.21
+P01928,bags_accessories,109.24,64.4,very_complex,Tamil Nadu,Diwali,647.64
+P01929,metalwork,329.21,130.05,medium,West Bengal,Summer_Festival,947.0
+P01930,handmade_food,84.69,30.61,simple,Rajasthan,Wedding,169.32
+P01931,metalwork,462.97,275.84,medium,Uttar Pradesh,Wedding,1826.89
+P01932,dress,472.74,256.5,very_complex,Uttar Pradesh,Summer_Festival,2575.38
+P01933,metalwork,275.58,85.41,very_complex,Gujarat,Summer_Festival,1110.69
+P01934,metalwork,301.28,190.99,simple,West Bengal,Wedding,849.56
+P01935,pottery,81.53,38.85,medium,Tamil Nadu,Wedding,240.07
+P01936,textile,308.96,126.2,simple,Maharashtra,Wedding,751.44
+P01937,dress,508.1,314.2,very_complex,Tamil Nadu,Regular,2689.09
+P01938,sarees,337.31,163.45,complex,Tamil Nadu,Regular,1351.92
+P01939,bamboo_cane,76.95,49.99,medium,Gujarat,Wedding,240.5
+P01940,jewelry,292.82,200.61,medium,Tamil Nadu,Diwali,1144.42
+P01941,bamboo_cane,197.29,104.93,medium,Gujarat,Regular,459.79
+P01942,metalwork,369.91,116.01,simple,Gujarat,Diwali,892.04
+P01943,jewelry,477.03,313.87,medium,Maharashtra,Wedding,2042.86
+P01944,metalwork,232.44,78.1,very_complex,Odisha,Regular,943.43
+P01945,sarees,637.98,345.59,simple,Tamil Nadu,Diwali,2044.69
+P01946,textile,389.74,118.21,simple,Gujarat,Wedding,983.75
+P01947,handmade_food,34.27,18.68,simple,Uttar Pradesh,Wedding,78.07
+P01948,metalwork,619.23,248.69,simple,Tamil Nadu,Regular,1251.52
+P01949,home_decor,137.79,65.19,simple,Rajasthan,Wedding,320.39
+P01950,textile,184.71,77.25,complex,Gujarat,Summer_Festival,718.89
+P01951,metalwork,405.68,276.12,complex,Maharashtra,Diwali,2049.18
+P01952,textile,139.19,77.39,complex,Uttar Pradesh,Regular,548.08
+P01953,pottery,35.6,24.14,medium,Tamil Nadu,Summer_Festival,109.91
+P01954,sarees,382.02,240.89,simple,Rajasthan,Wedding,1210.23
+P01955,woodwork,539.49,229.32,complex,Rajasthan,Summer_Festival,1812.72
+P01956,bags_accessories,150.97,68.42,medium,West Bengal,Wedding,551.53
+P01957,woodwork,462.76,294.77,medium,Gujarat,Regular,1505.73
+P01958,metalwork,300.63,162.06,medium,Rajasthan,Summer_Festival,1004.06
+P01959,sarees,1201.38,643.83,simple,Maharashtra,Regular,3305.74
+P01960,textile,325.74,219.82,simple,Gujarat,Wedding,900.98
+P01961,pottery,141.96,56.32,simple,West Bengal,Summer_Festival,308.86
+P01962,handmade_food,47.17,30.81,simple,Uttar Pradesh,Diwali,121.43
+P01963,textile,326.65,177.05,simple,West Bengal,Regular,784.05
+P01964,metalwork,478.98,227.28,simple,Tamil Nadu,Summer_Festival,1219.33
+P01965,textile,295.76,161.14,simple,Uttar Pradesh,Wedding,869.77
+P01966,woodwork,361.53,173.33,simple,West Bengal,Regular,863.77
+P01967,sarees,805.43,512.11,medium,West Bengal,Diwali,3408.97
+P01968,metalwork,614.94,257.52,medium,Rajasthan,Regular,1800.48
+P01969,bamboo_cane,106.55,44.98,simple,Rajasthan,Diwali,245.82
+P01970,bags_accessories,179.95,108.87,medium,Uttar Pradesh,Diwali,616.18
+P01971,bags_accessories,209.51,71.25,medium,West Bengal,Diwali,651.48
+P01972,woodwork,397.98,248.05,medium,Odisha,Summer_Festival,1225.02
+P01973,pottery,89.5,60.16,complex,Odisha,Summer_Festival,379.45
+P01974,metalwork,314.64,215.19,simple,Odisha,Regular,815.9
+P01975,dress,490.23,150.54,complex,Tamil Nadu,Regular,1759.06
+P01976,handmade_food,65.96,45.8,medium,Maharashtra,Diwali,199.86
+P01977,woodwork,536.57,191.58,simple,Uttar Pradesh,Wedding,1325.54
+P01978,home_decor,331.48,190.05,medium,Uttar Pradesh,Wedding,1084.91
+P01979,handmade_food,104.7,37.88,simple,Gujarat,Wedding,236.78
+P01980,handmade_food,95.35,40.6,simple,Tamil Nadu,Diwali,216.61
+P01981,woodwork,546.06,199.97,medium,Odisha,Diwali,1640.43
+P01982,woodwork,765.94,451.27,simple,Odisha,Diwali,2179.25
+P01983,home_decor,173.86,119.28,medium,Gujarat,Wedding,638.9
+P01984,textile,399.26,171.51,simple,Tamil Nadu,Diwali,987.35
+P01985,bamboo_cane,191.83,95.03,medium,West Bengal,Wedding,582.08
+P01986,sarees,1325.78,600.09,simple,West Bengal,Wedding,4117.38
+P01987,jewelry,469.2,301.14,medium,Uttar Pradesh,Diwali,1911.15
+P01988,textile,201.0,80.6,complex,West Bengal,Wedding,823.42
+P01989,pottery,44.33,27.18,simple,West Bengal,Summer_Festival,101.97
+P01990,jewelry,377.87,203.16,complex,Uttar Pradesh,Summer_Festival,1626.83
+P01991,handmade_food,36.58,17.74,medium,Maharashtra,Wedding,105.79
+P01992,home_decor,228.02,155.34,medium,Gujarat,Summer_Festival,685.76
+P01993,sarees,1213.27,618.57,complex,Uttar Pradesh,Wedding,5647.58
+P01994,metalwork,377.74,151.65,medium,Maharashtra,Diwali,1274.95
+P01995,bamboo_cane,94.99,51.06,simple,Gujarat,Diwali,204.73
+P01996,metalwork,548.32,244.84,complex,Maharashtra,Regular,1727.23
+P01997,jewelry,407.35,171.99,simple,Tamil Nadu,Wedding,1111.34
+P01998,handmade_food,94.36,52.45,simple,Maharashtra,Regular,197.1
+P01999,woodwork,515.33,263.51,simple,Tamil Nadu,Summer_Festival,1339.89
+P02000,bamboo_cane,179.65,111.17,simple,Rajasthan,Diwali,436.08

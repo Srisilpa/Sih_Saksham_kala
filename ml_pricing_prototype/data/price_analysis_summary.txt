@@ -1,0 +1,43 @@
+PRICE ANALYSIS SUMMARY (synthetic prototype data)
+
+By Category:
+                     mean   median     min      max  count
+category                                                  
+sarees            2290.78  2300.52  681.05  3447.66    122
+dress             1784.36  1742.60  480.55  3460.62    175
+woodwork          1628.22  1520.88  549.75  3462.17    173
+jewelry           1360.03  1274.28  304.59  3365.35    188
+metalwork         1340.12  1234.64  375.04  3411.20    185
+bags_accessories   825.19   791.94  254.38  1979.85    176
+textile            754.49   731.82  241.76  1969.10    168
+home_decor         653.07   623.07  177.33  1624.33    182
+bamboo_cane        305.34   252.50   77.41   860.81    178
+pottery            272.34   251.58   65.00   683.68    163
+handmade_food      212.92   196.44   65.10   560.62    192
+
+By Complexity:
+                     mean   median  count
+complexity_level                         
+complex           1171.27   956.14    370
+medium            1007.89   848.94    662
+simple             828.13   630.81    713
+very_complex      1378.65  1157.80    157
+
+By Season:
+                    mean  median  count
+season                                 
+Diwali           1002.67  818.08    491
+Regular           942.78  747.06    461
+Summer_Festival   950.19  767.51    464
+Wedding          1110.44  889.27    486
+
+By Region:
+                  mean  median  count
+region                               
+Gujarat         963.95  747.86    274
+Maharashtra     991.44  793.48    264
+Odisha         1004.08  845.44    253
+Rajasthan      1010.50  831.92    290
+Tamil Nadu      945.40  680.26    283
+Uttar Pradesh  1050.42  869.77    273
+West Bengal    1057.53  863.77    265
