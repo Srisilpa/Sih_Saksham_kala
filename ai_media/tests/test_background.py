@@ -1,23 +1,34 @@
-import os
-from vision.validate import validate_image
-from vision.background import remove_background
+import time
+from audio.pipeline import process_audio
 
-INPUT = "uploads/images/test1.png"
-OUTPUT = "outputs/images/test1_nobg.png"
+cases = [
+    "uploads/audio/audio.mp4",
+    "uploads/audio/hindi.mp4",
+    "uploads/audio/missing.m4a",
+    "requirements.txt",
+]
 
-img, error = validate_image(INPUT)
-if error:
-    print("Validation failed:", error)
-else:
-    print("Validated:", img.size, img.mode)
-    print("Removing background... (first run downloads ~170MB)")
+for path in cases:
+    print("\n===", path, "===")
+    start = time.time()
+    result = process_audio(path)
+    elapsed = round(time.time() - start, 1)
 
-    result, error = remove_background(img)
-    if error:
-        print("Failed:", error)
+    if result["success"]:
+        print("Language :", result["language_name"], f"({result['language']})")
+        print("Supported:", result["supported"])
+        print("Conf     :", result["confidence"])
+        print("Time     :", elapsed, "s")
+        print("Text     :", result["text"])
+        if result["warning"]:
+            print("WARNING  :", result["warning"])
     else:
-        print("Done. Mode is now:", result.mode)
-        os.makedirs("outputs/images", exist_ok=True)
-        result.save(OUTPUT)
-        print("Saved to:", OUTPUT)
-        result.show()
+        print("FAILED   :", result["error"])
+import os
+
+os.makedirs("outputs", exist_ok=True)
+with open("outputs/transcripts.txt", "w", encoding="utf-8") as f:
+    for path in cases:
+        r = process_audio(path)
+        f.write(f"{path}\n{r.get('text')}\n\n")
+print("\nTranscripts written to outputs/transcripts.txt")
