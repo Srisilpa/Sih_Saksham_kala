@@ -3,7 +3,7 @@ os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 
 from faster_whisper import WhisperModel
 
-MODEL_SIZE = "base"
+MODEL_SIZE = "models/whisper-base"
 
 _model = None
 
