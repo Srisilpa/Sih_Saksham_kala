@@ -2,3 +2,4 @@ pillow
 rembg[cpu]
 openai
 python-dotenv
+faster-whisper
